@@ -1,0 +1,300 @@
+.clearfix {
+  clear: both;
+}
+
+@font-face {
+font-family: glametrix;
+src: url("../fonts/Glametrix.otf") format("opentype");
+}
+
+@font-face {
+font-family: glametrix;
+font-weight: bold;
+src: url("../fonts/GlametrixBold.otf") format("opentype");
+}
+
+html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+    }
+
+
+* {
+  font-family: 'glametrix', sans-serif;
+  font-size: 24px;
+  transition: all .4s ease-in-out;
+  line-height: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* =============== HEADER ================ */
+header {
+  height: 100px;
+}
+
+img#logo {
+  float: left;
+  padding: 26px;
+}
+
+ul {
+  list-style: none;
+}
+
+#lang-list {
+  float: right;
+  padding: 32px 60px 40px 50px;
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+#lang-list li {
+  display: inline-block;
+}
+
+#lang-list li a {
+  display: inline;
+  padding: 0px 0px 0px 10px;
+}
+
+/* =============== NAVBAR ================ */
+
+.nav-bar {
+  min-height: 40px;
+  height: 40px;
+  margin-bottom: 0px;
+  background-color: #e54e00;
+}
+
+.nav-collapse ul {
+  display: flex;
+  list-style: none;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  justify-content: space-around;
+}
+
+.menu-btn {
+  display: none;
+}
+
+@media (max-width: 769px) {
+  .nav-collapse {
+    display: none;
+    margin-top: 40px!important;
+    position: absolute;
+    width: 100%!important;
+    height: inherit;
+    margin-left: -15px!important;
+    background-color: rgba(0,0,0,0.3);
+    transition: all 0s ease-in-out;
+  }
+
+  .nav-collapse ul {
+    display: block;
+  }
+
+  .menu-btn {
+    display: block;
+    height: 40px;
+    border: none;
+    color: white;
+    padding-top: 5px;
+    float: right;
+    background-color: #eae300;
+  }
+
+
+}
+
+.nav-bar ul li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.nav-bar ul li a {
+  display: inline-block;
+  height: 40px;
+  color: white !important;
+  padding: 10px 1px 10px 1px!important;
+  font-size: .9em;
+  width: 100%;
+}
+
+.nav-bar a:hover {
+  background-color: #cd3600!important;
+
+  text-decoration: none;
+}
+
+
+
+
+nav {
+  text-transform: uppercase;
+  background-color: #eae300;
+}
+
+/* =============== END NAVBAR ============ */
+
+.img-slider {
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+}
+.home-img {
+  margin: auto;
+}
+
+.banner {
+  width: 100%;
+  background-color: #eae300;
+  padding: 50px 0px;
+  margin-bottom: 55px;
+}
+
+.banner p {
+  margin: 0px auto;
+  max-width: 900px;
+  text-align: center;
+  color: white;
+  font-size: 1.8em;
+}
+
+.inside-banner {
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+}
+
+.nomarginbanner {
+  margin: 0px;
+}
+
+.info-box {
+  font-size: 1.5em;
+  color: #888;
+  text-align: center;
+  margin: 25px 0px;
+
+}
+
+.info-box h3 {
+  color: #eae300;
+  text-align: center;
+  font-size: 1.23em;
+}
+
+.info-box img {
+  display: block;
+  width: 170px;
+  height: 170px;
+  margin: 0 auto;
+}
+
+.info-box p {
+  font-size: .7em;
+}
+
+
+
+.team-box {
+  font-size: 1.5em;
+  color: #888;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.team-box h3 {
+  color: #e54e00;
+  font-size: 1.23em;
+}
+
+.team-box img {
+  width: 133px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.contact-wrap {
+  position: relative;
+}
+
+#map {
+  width: 100%;
+  height: 400px;
+}
+
+.footer-wrap {
+  background-color: #ddd;
+  margin-top: 60px;
+  padding: 50px;
+}
+
+#contact-info {
+  color: white;
+  text-align: center;
+  background-color: #e54e00;
+}
+@media (max-width: 769px) {
+  #contact-info {
+    padding: 20px;
+    width: calc(100% + 30px);
+    margin-left: -15px;
+  }
+
+  #contact-banner {
+    margin-bottom: 0px;
+  }
+
+  #map {
+    width: calc(100% + 30px);
+    margin-left: -15px;
+    height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+  #contact-info {
+    position: absolute;
+    padding-top: 90px;
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    opacity: 0.9;
+    bottom: 11%;
+    left: 120px;
+    z-index: 1;
+  }
+}
+#contact-info ul {
+  margin: 20px 0 0 0;
+  padding: 0;
+}
+
+#contact-info i.fa {
+  font-size: 20px;
+}
+
+.img-bck-1, .img-bck-2 {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.img-bck-2 {
+  background-position-x: calc(50% + 300px);
+}
+
+.testcol {
+  background-color: red;
+  opacity: 0.5;
+  height: 200px;
+}
