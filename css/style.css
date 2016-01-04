@@ -293,6 +293,23 @@ nav {
   background-position-x: calc(50% + 300px);
 }
 
+.team-h2, .team-h3 {
+  color: #e54e00;
+}
+
+.team-h2 {
+  font-size: 2em;
+}
+
+.team-h3 {
+  font-size: 1.1em;
+}
+
+.team-p {
+  color: #888;
+  font-size: 1.3em;
+}
+
 .testcol {
   background-color: red;
   opacity: 0.5;
