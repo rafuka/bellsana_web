@@ -15,6 +15,8 @@
 	$lang['nav-services'] = "services";
 	$lang['nav-seminars'] = "seminars";
 	$lang['nav-contact'] = "contact us";
+	$lang['nav-philosophy'] = "philosophy";
+	$lang['nav-work'] = "work for us";
 	/* ----- end nav menu -- */
 
 

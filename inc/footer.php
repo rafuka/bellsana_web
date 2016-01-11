@@ -20,11 +20,11 @@
 
 			var mapCanvas = document.getElementById('map');
 			var mapOptions = {
+        scrollwheel: false,
 	      center: centerLatLng,
 	      zoom: 16,
-	      mapTypeId: google.maps.MapTypeId.ROADMAP,
-        minZoom: 15,
-        maxZoom: 17
+	      mapTypeId: google.maps.MapTypeId.ROADMAP
+
 	    }
 
 	    var map = new google.maps.Map(mapCanvas, mapOptions);
@@ -33,9 +33,9 @@
 			  map: map
 			});
 
-      map.addListener('zoom_changed', function() {
+    /*  map.addListener('zoom_changed', function() {
         map.setCenter(centerLatLng);
-      });
+      }); */
 		}
 
 		google.maps.event.addDomListener(window, 'load', initialize);
