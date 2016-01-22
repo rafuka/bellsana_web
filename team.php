@@ -17,32 +17,32 @@
   }
 ?>
 
-<div class="container">
-  <div class="row">
-    <img class="img-responsive" src="<?php echo $img1 ?>" alt="Christian Harringer photograph"/>
-  </div>
-</div><!--/ container -->
+<div class="jumbotron img-slider">
+  <img class="img-responsive land-img" src="<?php echo $img1 ?>" alt="Christian Harringer photograph"/>
+</div>
 <div class="banner nomarginbanner">
   <div class="container text-center">
     <h2><?php echo $name ?></h2>
 
-    <p><?php echo $info ?></p>
+    <p class="member-info"><?php echo $info ?></p>
   </div>
 </div>
 
 <div class="container">
-  <div class="row img-bck-1" style="background-image: url('<?php echo $img2 ?>')">
-    <div class="col-md-6 col-md-offset-6">
-      <h2 class="team-h2"><?php echo $h2 ?></h2>
-      <h3 class="team-h3"><?php echo $h3 ?></h3>
-      <p class="team-p">
-        <?php echo $text1 ?>
-      </p>
+  <div class="row">
+    <div class="col-md-6 img-fixed">
+      <?php echo $text1; ?>
+    </div>
+    <div class="col-md-6">
+      <img class="team-img-fixed" src="<?php echo $img2 ?>"/>
     </div>
   </div>
-  <div class="row img-bck-2" style="background-image: url('<?php echo $img3 ?>')">
+  <div class="row">
     <div class="col-md-6">
-      <p class="team-p">
+      <img class="team-img-fixed" src="<?php echo $img3 ?>"/>
+    </div>
+    <div class="col-md-6 img-fixed">
+      <p class="text-p">
         <?php echo $text2 ?>
       </p>
     </div>

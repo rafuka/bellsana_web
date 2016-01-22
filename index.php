@@ -1,29 +1,25 @@
 <?php require("inc/header.php"); ?>
 
 	<div class="jumbotron img-slider">
-		<img class="img-responsive home-img" src="img/belsana.jpg" alt="Lobby Image"/>
+		<img class="img-responsive land-img" src="img/belsana44.jpg" alt="Lobby Image"/>
 	</div>
 	<div id="aboutbanner" class="banner">
+		<span id="about-section" class="dummy-anchor"></span>
 		<div class="container">
-		<p>"Bellsana is a holistic practice providing a variety
-			of advisory and treatment services in comfortable
-			private offices"</p>
+			<?php echo $lang['banner-1']; ?>
 		</div>
 	</div>
 
 	<div class="container">
 		<div class="row">
-			<a href="#">
+			<a href="philosophy.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/1.png" alt="philosophy logo"/>
 					<h3>Our Philosophy</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-						 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-					 	Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-						 nisi ut aliquip ex ea commodo consequat.</p>
+					<p><?php echo $lang['phil-info'] ?></p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="services.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/2.png" alt="services logo"/>
 					<h3>Services</h3>
@@ -47,17 +43,16 @@
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/4.png" alt="work for us logo"/>
 					<h3>Work For Us</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-						 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-					 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-					  ut aliquip ex ea commodo consequat.</p>
+					<p><?php echo $lang['work-info'] ?></p>
 				</div>
 			</a>
 		</div><!--/ row -->
 	</div><!--/ container -->
-	<div id="teambanner" class="banner inside-banner">
+
+	<div class="banner inside-banner">
+		<span id="team-section" class="dummy-anchor"></span>
 		<div class="container">
-		<p>Meet The Team</p>
+			<p>Meet The Team</p>
 		</div>
 	</div>
 
@@ -82,7 +77,7 @@
 					</p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="team.php?team=christian">
 				<div class="col-sm-6 col-md-4 team-box">
 					<img class="team-img" src="img/t3.jpg" alt="team member"/>
 					<h3>Christian Harringer</h3>

@@ -29,13 +29,11 @@
 <head>
 	<title><?php echo $lang['index-title'] ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-	<script src="https://maps.googleapis.com/maps/api/js"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.0/animate.min.css">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<script src="https://maps.googleapis.com/maps/api/js"></script>
 </head>
 <body>
 	<header class="container-fluid">
@@ -48,18 +46,18 @@
 					<button class="menu-btn"><i class="fa fa-bars"></i></button>
 					<div class="nav-collapse">
 						<ul>
-				      <li><a href="index.php"><?php echo $lang['nav-home'] ?></a></li>
+				      <li><a class="main-link" href="index.php"><?php echo $lang['nav-home'] ?></a></li>
 				      <li>
-								<a href="index.php#aboutbanner"><?php echo $lang['nav-about'] ?></a>
+								<a class="main-link" href="index.php#about-section"><?php echo $lang['nav-about'] ?></a>
 								<ul class="sub-menu">
-									<li><a><?php echo $lang['nav-philosophy'] ?></a></li>
-									<li><a><?php echo $lang['nav-services'] ?></a></li>
+									<li><a href="philosophy.php"><?php echo $lang['nav-philosophy'] ?></a></li>
+									<li><a href="services.php"><?php echo $lang['nav-services'] ?></a></li>
 									<li><a><?php echo $lang['nav-seminars'] ?></a></li>
 									<li><a><?php echo $lang['nav-work'] ?></a></li>
 								</ul>
 							</li>
-					    <li><a href="index.php#teambanner"><?php echo $lang['nav-team'] ?></a></li>
-					    <li><a href="#"><?php echo $lang['nav-contact'] ?></a></li>
+					    <li><a class="main-link" href="index.php#team-section"><?php echo $lang['nav-team'] ?></a></li>
+					    <li><a class="main-link" href="#"><?php echo $lang['nav-contact'] ?></a></li>
 					  </ul>
 					</div>
 				</nav>
