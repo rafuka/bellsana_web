@@ -57,12 +57,12 @@
 								</ul>
 							</li>
 					    <li><a class="main-link" href="index.php#team-section"><?php echo $lang['nav-team'] ?></a></li>
-					    <li><a class="main-link" href="#"><?php echo $lang['nav-contact'] ?></a></li>
+					    <li><a class="main-link" href="index.php#contact-section"><?php echo $lang['nav-contact'] ?></a></li>
 					  </ul>
 					</div>
 				</nav>
 			</div>
-			<div class="col-md-2">
+			<div class="col-xs-3 col-md-2">
 				<ul id="lang-list">
 					<li><a href="index.php?lang=de">De</a></li>
 					<li><a href="index.php?lang=fr">Fr</a></li>

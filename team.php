@@ -5,6 +5,22 @@
       require("inc/christian.php");
       break;
 
+      case "gabriela":
+      require("inc/gabriela.php");
+      break;
+
+      case "sibylle":
+      require("inc/sibylle.php");
+      break;
+
+      case "richard":
+      require("inc/richard.php");
+      break;
+
+      case "paul":
+      require("inc/paul.php");
+      break;
+
       default:
         header("location: http://localhost/bellsana/index.php");
         exit();
@@ -18,7 +34,7 @@
 ?>
 
 <div class="jumbotron img-slider">
-  <img class="img-responsive land-img" src="<?php echo $img1 ?>" alt="Christian Harringer photograph"/>
+  <img class="img-responsive land-img" src="<?php echo $img1 ?>" alt="<?php echo $img1_alt; ?>"/>
 </div>
 <div class="banner nomarginbanner">
   <div class="container text-center">
@@ -34,12 +50,12 @@
       <?php echo $text1; ?>
     </div>
     <div class="col-md-6">
-      <img class="team-img-fixed" src="<?php echo $img2 ?>"/>
+      <img class="team-img-fixed" src="<?php echo $img2 ?>" alt="<?php echo $img2_alt; ?>"/>
     </div>
   </div>
   <div class="row">
     <div class="col-md-6">
-      <img class="team-img-fixed" src="<?php echo $img3 ?>"/>
+      <img class="team-img-fixed" src="<?php echo $img3 ?>" alt="<?php echo $img3_alt; ?>"/>
     </div>
     <div class="col-md-6 img-fixed">
       <p class="text-p">

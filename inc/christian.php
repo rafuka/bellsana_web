@@ -3,6 +3,10 @@
   $img2 = "img/christian2.png";
   $img3 = "img/christian3.png";
 
+  $img1_alt = "Christian's main portrait";
+  $img2_alt = "Christian's photograph 2";
+  $img3_alt = "Christian's photograph 3";
+
   $name = "Christian Harringer";
   $info = "Dipl. Komplement&auml;r-Therapeut<br/>
             044 281 31 31<br/>

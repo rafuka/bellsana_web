@@ -68,5 +68,29 @@
 	$lang['serv-9-name'] = "Lymphdrainage";
 	$lang['serv-10-name'] = "LnB Schmertztherapie";
 	$lang['serv-11-name'] = "Komplement&auml;r Therapie";
+
+	$lang['serv-1-who'] = "Gabriela Thirring";
+	$lang['serv-2-who'] = "Sibylle Seitzmeir";
+	$lang['serv-3-who'] = "Richard Casanova";
+	$lang['serv-4-who'] = "Gabriela Thirring";
+	$lang['serv-5-who'] = "Paul H&ouml;rter";
+	$lang['serv-6-who'] = "Christian Harringer";
+	$lang['serv-7-who'] = "Sibylle Seitzmeir";
+	$lang['serv-8-who'] = "Richard Casanova";
+	$lang['serv-9-who'] = "Christian Harringer";
+	$lang['serv-10-who'] = "Paul H&ouml;rter";
+	$lang['serv-11-who'] = "Christian Harringer";
+
+	$lang['serv-1-anc'] = "team.php?team=gabriela";
+	$lang['serv-2-anc'] = "team.php?team=sibylle";
+	$lang['serv-3-anc'] = "team.php?team=richard";
+	$lang['serv-4-anc'] = "team.php?team=gabriela";
+	$lang['serv-5-anc'] = "team.php?team=paul";
+	$lang['serv-6-anc'] = "team.php?team=christian";
+	$lang['serv-7-anc'] = "team.php?team=sibylle";
+	$lang['serv-8-anc'] = "team.php?team=richard";
+	$lang['serv-9-anc'] = "team.php?team=christian";
+	$lang['serv-10-anc'] = "team.php?team=paul";
+	$lang['serv-11-anc'] = "team.php?team=christian";
 	/* ----- end services site ----- */
 ?>

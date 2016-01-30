@@ -1,6 +1,5 @@
 $(document).ready(function() {
 
-  
 
   var ic_width = $('.info-circle').width();
   $('.info-circle').css({'height':ic_width+'px'});

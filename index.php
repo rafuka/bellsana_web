@@ -58,7 +58,7 @@
 
 	<div class="container">
 		<div class="row ">
-			<a href="#">
+			<a href="team.php?team=gabriela">
 				<div class="col-sm-6 col-md-4 team-box">
 					<img class="team-img" src="img/t1.jpg" alt="team member"/>
 					<h3>Gabriela Thirring</h3>
@@ -67,7 +67,7 @@
 					</p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="team.php?team=richard">
 				<div class="col-sm-6 col-md-4 team-box">
 					<img class="team-img" src="img/t2.jpg" alt="team member"/>
 					<h3>Richard Casanova</h3>
@@ -85,7 +85,7 @@
 					</p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="team.php?team=sibylle">
 				<div class="col-sm-6 col-md-4 col-md-offset-2 team-box">
 					<img class="team-img" src="img/t4.jpg" alt="team member"/>
 					<h3>Sibylle Seitzmeir</h3>
@@ -94,7 +94,7 @@
 					</p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="team.php?team=paul">
 				<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-0 team-box">
 				  <img class="team-img" src="img/t5.jpg" alt="team member"/>
 					<h3>Paul H&ouml;rter</h3>
@@ -108,6 +108,7 @@
 	</div><!--/ container -->
 
 	<div id="contact-banner" class="banner inside-banner">
+		<span id="contact-section" class="dummy-anchor"></span>
 		<div class="container">
 		<p>Contact Us</p>
 		</div>
