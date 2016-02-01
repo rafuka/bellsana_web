@@ -22,21 +22,15 @@
 			<a href="services.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/2.png" alt="services logo"/>
-					<h3>Services</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-						 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-					 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-					  ut aliquip ex ea commodo consequat.</p>
+					<h3>Treatments</h3>
+					<p><?php echo $lang['treat-info']; ?></p>
 				</div>
 			</a>
 			<a href="#">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/3.png" alt="seminars logo"/>
 					<h3>Seminars</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-						 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-					 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-					  ut aliquip ex ea commodo consequat.</p>
+					<p><?php echo $lang['sem-info']; ?></p>
 				</div>
 			</a>
 			<a href="#">

@@ -5,14 +5,18 @@
 
 	/* ----- <head> ----- */
 	$lang['lang-attr'] = "lang=en";
-	$lang['index-title'] = "This is The title";
+
+	$lang['index-title'] = "Bellsana | About Us and Our Team";
+	$lang['phil-title'] = "Bellsana | Philosophy";
+	$lang['treat-title'] = "Bellsana | Treatments";
+	$lang['work-title'] = "Bellsana | Work for Us";
 	/* --- end <head> --- */
 
 	/* ----- nav menu ----- */
 	$lang['nav-home'] = "home";
 	$lang['nav-about'] = "about us";
 	$lang['nav-team'] = "team";
-	$lang['nav-services'] = "services";
+	$lang['nav-treatments'] = "treatments";
 	$lang['nav-seminars'] = "seminars";
 	$lang['nav-contact'] = "contact us";
 	$lang['nav-philosophy'] = "philosophy";
@@ -33,7 +37,11 @@
 		einen Kollegen mit einer Methode, die unser
 		bestehendes Team und Angebot ideal erg&auml;nzt oder in
 		der Schmerzbehandlung angewendet wird. ";
-
+	$lang['treat-info'] = "F&uumlr Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
+	$lang['sem-info'] = "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+		 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+		ut aliquip ex ea commodo consequat.";
 	/* ----- end home site ----- */
 
 	/* ----- philosophy site ----- */
@@ -51,11 +59,13 @@
 	$lang['philosophy-banner'] = "Our Philosophy";
 	$lang['circle-1'] = "<p>Call Us<br/>+41 44 281 31 31</p>";
 	$lang['circle-2'] = "<p>Email Us<br/>info@bellsana.ch</p>";
-	$lang['circle-3'] = "<p>Browse our Services</p>";
+	$lang['circle-3'] = "<p>Browse<br/> our Treatments</p>";
 
 	/* ----- end philosophy site ----- */
 
 	/* ----- services site ----- */
+	$lang['card-back'] = "Visit";
+
 	$lang['services-banner'] = "Our Services";
 	$lang['serv-1-name'] = "Coaching f&uuml;r's Leben";
 	$lang['serv-2-name'] = "EMF Balancing Technique";

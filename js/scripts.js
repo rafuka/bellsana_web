@@ -7,8 +7,8 @@ $(document).ready(function() {
   var sv_width = $('.serv-circle').width();
   $('.serv-circle').css({'height':sv_width+'px'});
 
-  var fontSize = (parseInt($('.info-circle').height()) * 0.15) + "px";
-  $('.info-circle p').css('font-size', fontSize);
+
+
 
   $(window).resize(function() {
     var ic_width = $('.info-circle').width();
@@ -17,8 +17,7 @@ $(document).ready(function() {
     var sv_width = $('.serv-circle').width();
     $('.serv-circle').css({'height':sv_width+'px'});
 
-    var fontSize = (parseInt($('.info-circle').height()) * 0.15) + "px";
-    $('.info-circle p').css('font-size', fontSize);
+    
   });
 
   var teamImgSize = $('.team-img-fixed').parent().width();

@@ -51,7 +51,7 @@
 								<a class="main-link" href="index.php#about-section"><?php echo $lang['nav-about'] ?></a>
 								<ul class="sub-menu">
 									<li><a href="philosophy.php"><?php echo $lang['nav-philosophy'] ?></a></li>
-									<li><a href="services.php"><?php echo $lang['nav-services'] ?></a></li>
+									<li><a href="services.php"><?php echo $lang['nav-treatments'] ?></a></li>
 									<li><a><?php echo $lang['nav-seminars'] ?></a></li>
 									<li><a><?php echo $lang['nav-work'] ?></a></li>
 								</ul>

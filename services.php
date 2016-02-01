@@ -18,7 +18,7 @@
           <img src="img/serv_icons/1.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-1-anc']; ?>"><?php echo $lang['serv-1-who']; ?></a>
         </div>
       </div>
@@ -32,7 +32,7 @@
           <img src="img/serv_icons/2.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-2-anc']; ?>"><?php echo $lang['serv-2-who']; ?></a>
         </div>
       </div>
@@ -46,7 +46,7 @@
           <img src="img/serv_icons/3.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-3-anc']; ?>"><?php echo $lang['serv-3-who']; ?></a>
         </div>
       </div>
@@ -60,7 +60,7 @@
           <img src="img/serv_icons/4.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-4-anc']; ?>"><?php echo $lang['serv-4-who']; ?></a>
         </div>
       </div>
@@ -74,7 +74,7 @@
           <img src="img/serv_icons/5.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-5-anc']; ?>"><?php echo $lang['serv-5-who']; ?></a>
         </div>
       </div>
@@ -88,7 +88,7 @@
           <img src="img/serv_icons/6.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-6-anc']; ?>"><?php echo $lang['serv-6-who']; ?></a>
         </div>
       </div>
@@ -102,7 +102,7 @@
           <img src="img/serv_icons/7.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-7-anc']; ?>"><?php echo $lang['serv-7-who']; ?></a>
         </div>
       </div>
@@ -116,7 +116,7 @@
           <img src="img/serv_icons/8.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p><a href="<?php echo $lang['serv-8-anc']; ?>"><?php echo $lang['serv-8-who']; ?></a>
+          <p><?php echo $lang['card-back']; ?></p><a href="<?php echo $lang['serv-8-anc']; ?>"><?php echo $lang['serv-8-who']; ?></a>
         </div>
       </div>
       <p class="card-info">
@@ -129,7 +129,7 @@
           <img src="img/serv_icons/9.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-9-anc']; ?>"><?php echo $lang['serv-9-who']; ?></a>
         </div>
       </div>
@@ -143,7 +143,7 @@
           <img src="img/serv_icons/10.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-10-anc']; ?>"><?php echo $lang['serv-10-who']; ?></a>
         </div>
       </div>
@@ -157,7 +157,7 @@
           <img src="img/serv_icons/11.png"/>
         </div>
         <div class="serv-circle back">
-          <p>Visit</p>
+          <p><?php echo $lang['card-back']; ?></p>
           <a href="<?php echo $lang['serv-11-anc']; ?>"><?php echo $lang['serv-11-who']; ?></a>
         </div>
       </div>

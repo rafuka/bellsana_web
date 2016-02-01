@@ -1,7 +1,7 @@
 <?php
-  $img1 = "img/paul1.png";
-  $img2 = "img/paul2.png";
-  $img3 = "img/paul3.png";
+  $img1 = "img/paul1.jpg";
+  $img2 = "img/paul2.jpg";
+  $img3 = "img/paul3.jpg";
 
   $img1_alt = "Paul's main portrait";
   $img2_alt = "Paul's photograph 2";
@@ -10,7 +10,9 @@
   $name = "Paul H&ouml;rter";
   $info = "Osteopathie<br/>
             Physiotherapie<br/>
-            LnB Schmerztherapie";
+            LnB Schmerztherapie<br/>
+            <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;hoerter@bellsana.ch";
 
 
   $text1 = "<h2>Was ist mein Anliegen?</h2>
@@ -48,8 +50,7 @@
           <li>Golfer - und Tennisellbogen</li>
           <li>Hexenschuss</li>
           <li>Ischialgie</li>
-          <li>Karpaltunnel</li>
-          <li>Syndrom</li>
+          <li>Karpaltunnel Syndrom</li>
           <li>Kieferschmerzen</li>
           <li>Knieschmerzen</li>
           <li>Kopfschmerzen</li>
