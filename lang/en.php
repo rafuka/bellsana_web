@@ -21,6 +21,8 @@
 	$lang['nav-contact'] = "contact us";
 	$lang['nav-philosophy'] = "philosophy";
 	$lang['nav-work'] = "work for us";
+	$lang['nav-news'] = "news";
+	$lang['nav-links'] = "links";
 	/* ----- end nav menu ----- */
 
 	/* ----- home site ----- */
@@ -42,6 +44,8 @@
 		 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 	 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 		ut aliquip ex ea commodo consequat.";
+
+	$lang['contact-banner'] = "Contact Us";
 	/* ----- end home site ----- */
 
 	/* ----- philosophy site ----- */

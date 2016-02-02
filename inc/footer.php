@@ -34,7 +34,7 @@
     </div>
   </div><!-- /container -->
 </div><!-- /footer-wrap -->
-
+</div><!-- /fader -->
 <script>
 	  function initialize() {
 

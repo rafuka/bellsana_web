@@ -17,6 +17,8 @@
 	$lang['nav-contact'] = "kontakt";
 	$lang['nav-philosophy'] = "philosophie";
 	$lang['nav-work'] = "wir suchen";
+	$lang['nav-news'] = "news";
+	$lang['nav-links'] = "links";
 	/* ----- end nav menu -- */
 
 	/* ----- home site ----- */
@@ -31,6 +33,8 @@
 		 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 	 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 		ut aliquip ex ea commodo consequat.";
+
+	$lang['contact-banner'] = "Standort";
 	/* ----- end home site ----- */
 
 	/* ----- philosophy site ----- */
@@ -91,5 +95,53 @@
 	$lang['serv-11-anc'] = "team.php?team=christian";
 	/* ----- end services site ----- */
 
+	/* ----- work site ----- */
+	$lang['work-banner'] = "Wir Suchen";
+	$lang['work-text'] = "<p class='text-p'>im Januar 2015</p>
+		<p class='text-p'>Wir suchen eine Kollegin oder einen Kollegen mit einer Methode, die unser bestehendes  Team und Angebot ideal erg&auml;nzt oder in der Schmerzbehandlung angewendet wird. Dies kann mittels Atemtherapie, Coaching, TCM, Ern&auml;hrungsberatung oder das Angebot einer Podologin/Kosmetikerin sein, die gerne ihre Kundschaft an bester Lage empfangen will.</p>
+		<p class='text-p'>Bringen Sie den Wunsch nach interdisziplin&auml;rer Zusammenarbeit in einem&nbsp;Team mit?&nbsp;Wir bieten an z&uuml;richs bester Citylage eine professionelle Plattform, mit Sekretariatsdienst,&nbsp;harmonische Arbeitsr&auml;ume, N&auml;he zu allen Bahnh&ouml;fen sowie 2 Stunden Parkm&ouml;glichkeiten in der Umgebung.<br>
+Frei zur Mitarbeit wird ab 2015 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. aller Betriebskosten wie Reinigung, Sekretariatsdienst, Internetzugang, eigene Mailadresse, EWZ, usw. 1'270.00 CHF) mit Stukkatur und altem Parkett, eigene Waschmaschine und Tumbler vorhanden.</p>
+		<p class='text-p'>F&uuml;r weitere Informationen freuen wir uns auf Ihre Kontaktaufnahme!</p>";
+	/* ----- end work site ----- */
+
+
+	/* ----- news site ----- */
+	$lang['news-banner'] = "Aktuell";
+	$lang['news-text'] = "<p class='text-p'>Januar 2015 - Wir vermieten einen Behandlungsraum an einen Kollegen/Kollegin oder auch an eine Kosmetikerin/Pedicure. Weiterf&uuml;hrende Informationen unter \"wir suchen\". Melden Sie sich einfach per Telefon oder Mail.</p>
+		<p class='text-p'>Wie Christian Harringer, Komplemet&auml;r-Therapeut bei bellsana, den Betroffenen durch Lymphdrainage zu neuer Lebensqualit&auml;t verhilft:</p>";
+
+	/* ----- end news site ----- */
+
+	/* ----- seminars site ----- */
+	$lang['seminar-banner'] = "Seminare";
+	$lang['seminar-text'] = "<h3 class='text-p'>Vitalstructures-Seminare - Coaching f&uuml;r's Leben -&nbsp;</h3>
+		<ul class='text-p'>
+			<li>Coaching f&uuml;r's Leben - Navigationshilfen</li>
+			<li>Zweitagesseminare abwechslungsweise in der Schweiz, in Deutschland und in Italien</li>
+		</ul>
+		<p class='text-p'>&nbsp;(4.11.2011)</p>
+		<h3 class='text-p'>Massage-Kurse - LEARNING BY DOING</h3>
+		<ul class='text-p'>
+			<li>Im Fokus stehen Ganzk&ouml;rper-&nbsp;und Fussreflexzonen-Massage</li>
+			<li>Wecke neue Lebensenergie, und bringe sie zum Fliessen</li>
+		</ul>
+		<p class='text-p'>&nbsp;(18.7.2012)</p>";
+
+	/* ----- end seminars site ----- */
+
+	/* ----- links site ----- */
+	$lang['links-banner'] ="Links";
+	$lang['links-text'] ="<p class='text-p'>Wir m&ouml;chten ausdr&uuml;cklich betonen, dass wir keinerlei Einfluss  auf die 				Gestaltung und die Inhalte der verlinkten Seiten haben. Deshalb  distanzieren wir uns hiermit ausdr&uuml;cklich von allen Inhalten aller verlinkten Seiten auf dieser Website und machen uns deren Inhalt nicht zu  Eigen. Diese Erkl&auml;rung gilt f&uuml;r alle auf unserer Website angebrachten  Links.</p>
+			<h3 class='text-p'>THEMA: PSYCHOLOGIE ALLGEMEIN</h3>
+			<p class='text-p'>
+			<a target='_blank' href='http://www.sorgen-telefon.info/'>www.sorgen-telefon.info</a> - Psychologische Beratung und Lebenshilfe<br>
+<a target='_blank' href='http://www.lebensgeschichten.org/borderline'>www.lebensgeschichten.org/borderline</a> - Eine fast unbekannte Krankheit<br>
+<a target='_blank' href='http://www.psychotraumatologie-sipt.ch/'>www.psychotraumatologie-sipt.ch/</a> - Schweizer Institut f&uuml;r Psychotraumatologie in Winterthur&nbsp;<br>
+<a target='_blank' href='http://www.psychotrauma.ch/'>www.psychotrauma.ch/</a> - Z&uuml;rcher Fachstelle f&uuml;r Psychotraumatologie ZFP<br>
+<a target='_blank' href='http://www.iip.ch/index.php'>www.iip.ch/index.php</a> - Zentrum f&uuml;r Psychotraumatologie&nbsp;und Traumatherapie&nbsp;in Schaffhausen<br>
+<a target='_blank' href='http://www.somatic-experiencing.de/'>www.somatic-experiencing.de</a><br>
+<a target='_blank' href='http://www.michaela-huber.com/'>www.michaela-huber.com</a> - EMDR und Trauma</p>
+		";
+	/* ----- end links site ----- */
 
 ?>

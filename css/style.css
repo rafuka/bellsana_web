@@ -41,24 +41,26 @@ a:focus {
 a:hover {
   text-decoration: none!important;
 }
+
 /* =============== HEADER ================ */
+
 header {
   position: fixed;
-  margin-top: -100px;
+  margin-top: -88px;
   width: 100%;
-  height: 100px;
+  height: 88px;
   box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
   background-color: white;
   z-index: 999;
 }
 
 header + div {
-  margin-top: 100px!important;
+  margin-top: 88px!important;
 }
 
 img#logo {
   float: left;
-  padding: 26px;
+  padding: 20px;
 }
 
 ul {
@@ -67,12 +69,13 @@ ul {
 
 #lang-list {
   margin: 0px;
-  padding: 38px 0px;
+  padding: 32px 0px;
   text-transform: uppercase;
 }
 
 #lang-list li {
   display: inline-block;
+	padding: 0px 3px;
 }
 
 #lang-list li a {
@@ -112,7 +115,7 @@ ul {
 @media (max-width: 991px) {
   .nav-collapse {
     display: none;
-    margin-top: 100px!important;
+    margin-top: 88px!important;
     position: absolute;
     width: 100%!important;
     height: inherit;
@@ -200,7 +203,7 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  padding: 38px 0px;
+  padding: 32px 0px;
   color: #ea4c1d;
   transition: all .15s ease-in-out;
 }
@@ -261,7 +264,7 @@ nav ul li a:hover {
   width: 0;
   height: 0;
   z-index: -1;
-  top: -150px;
+  top: -138px;
   left: 0;
   visibility: hidden;
 }
@@ -335,10 +338,13 @@ nav ul li a:hover {
 }
 
 img.info-img, img.team-img {
+	-webkit-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
 
 a:hover img.info-img, a:hover img.team-img {
+	-webkit-transform: scale(1.15);
+	-ms-transform: scale(1.15);
   transform: scale(1.15);
 }
 
@@ -374,6 +380,11 @@ a:hover img.info-img, a:hover img.team-img {
 .footer-wrap {
   background-color: #ddd;
   padding: 50px;
+	background: #ddd; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#eee, #eee, #ddd); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#eee, #eee, #ddd); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#eee, #eee, #ddd); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#eee, #eee, #ddd); /* Standard syntax */
 }
 
 #contact-info {
@@ -444,19 +455,14 @@ a:hover img.info-img, a:hover img.team-img {
 
 
 
-.text-p {  /* REVISAR !!! */
+p.text-p {  /* REVISAR !!! */
   color: #888;
   font-size: 1.2em;
-  text-align: justify;
   margin-bottom: 20px;
+	letter-spacing: .5px;
+  word-spacing: 4px;
 }
 
-.img-fixed p {
-  color: #888;
-  font-size: 1.2em;
-  text-align: justify;
-  margin-bottom: 20px;
-}
 
 .img-fixed ul {
   color: #888;
@@ -489,6 +495,8 @@ a:hover img.info-img, a:hover img.team-img {
   background-color: #ea4c1d;
   width: 100%;
   margin-bottom: 60px;
+  background: radial-gradient(#fa6315, #ea4c1d);
+	
 }
 
 .info-circle p {
@@ -498,6 +506,7 @@ a:hover img.info-img, a:hover img.team-img {
   position: relative;
   top: 50%;
   -webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
   transform: translateY(-50%);
   font-size: 1.3em;
 }
@@ -509,6 +518,7 @@ a:hover img.info-img, a:hover img.team-img {
   position: relative;
   top: 50%;
   -webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
   transform: translateY(-50%);
   font-size: 1.3em;
 }
@@ -525,7 +535,6 @@ a:hover img.info-img, a:hover img.team-img {
   height: 210px;
   margin-right: auto;
   margin-left: auto;
-  box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
   background: radial-gradient(#fa6315, #ea4c1d);
 }
 
@@ -615,6 +624,38 @@ p.member-info {
   text-align: center;
   font-size: .8em;
 }
+
+#pdf-icon {
+	width: 60px;
+	float: left;
+}
+
+h3.text-p {
+	font-size: 1.2em;
+	color: #ea4c1d;
+}
+
+ul.text-p {
+	  color: #888;
+ 		padding: 0px;
+}
+
+ul.text-p li {
+	  font-size: 1.2em;
+ 		padding: 5px 0px;
+}
+
+ul.text-p li:before {
+    content: "* ";
+    color: #ea4c1d; /* or whatever color you prefer */
+}
+
+.fader {
+	opacity: 0;
+	-webkit-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
 .testcol {
   background-color: red;
   opacity: 0.5;

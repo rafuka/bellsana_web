@@ -18,11 +18,11 @@
 
   $text1 = "<h2>KOMPLEMENT&Auml;R-THERAPIE</h2>
     <h3>ENERGETISCH-STATISCHE-BEHANDLUNG AKUPUNKTUR-MASSAGE (ESB/APM)</h3>
-    <p>Beide Methoden sind eigenst&aumlndige Behandlungsformen,
+    <p class='text-p'>Beide Methoden sind eigenst&aumlndige Behandlungsformen,
   die in sinnvoller Kombination angewendet werden.
   Mit der energetischen Wirkung der Akupunkturmassage
    (APM) wird der K&ouml;rper auf sich anschliessende
-    statische Behandlung (ESB) der Wirbelsäule und der
+    statische Behandlung (ESB) der Wirbels&auml;ule und der
     Gelenke optimal vorbereitet.
 
 Nach alter asiatischer Auffassung ist es die
@@ -35,13 +35,13 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
     Akupunkturpunkte erf&uuml;llen in diesem
     Kreislaufsystem Steuerungsaufgaben.<br/>
     Die M&ouml;glichkeiten der ESB/APM:</p>
-    <ul>
-      <li><span> - </span>Allergien, Kopfschmerzen</li>
-      <li><span> - </span>St&ouml;rungen des Herz-Kreislauf-Systems</li>
-      <li><span> - </span>Psychosomatische St&ouml;rungen</li>
-      <li><span> - </span>Orthop&auml;disch - rheumatische Erkrankungen</li>
+    <ul class='text-p'>
+      <li>Allergien, Kopfschmerzen</li>
+      <li>St&ouml;rungen des Herz-Kreislauf-Systems</li>
+      <li>Psychosomatische St&ouml;rungen</li>
+      <li>Orthop&auml;disch - rheumatische Erkrankungen</li>
     </ul>
-    <p>
+    <p class='text-p'>
       Dazu kommt die Ohr-Reflexzonen-Kontrolle nach
       Radloff. Die Ohrmuscheln bieten dem Behandler
       vielf&auml;ltige und aussagekr&auml;ftige Befund- und
@@ -49,20 +49,20 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
       des ganzen K&ouml;rpers.
     </p>
     <h3>MANUELLE LYMPHDRAINAGE</h3>
-    <p>
+    <p class='text-p'>
       Die manuelle Lymphdrainage reinigt das Bindegewebe
        durch ihre pumpenden Bewegungen und hat dadurch
       eine entschlackende Wirkung.<br/>
       Anwendungsbereiche sind
     </p>
-    <ul>
-      <li><span> - </span>durch Genetik verursachte Schwellungen in den Beinen</li>
-      <li><span> - </span>und oberen Extremitäten</li>
-      <li><span> - </span>durch Operationen, Verletzungen, Prellungen</li>
-      <li><span> - </span>durch Sch&ouml;nheitsoperationen verursachte Oedeme</li>
+    <ul class='text-p'>
+      <li>durch Genetik verursachte Schwellungen in den Beinen</li>
+      <li>und oberen Extremitäten</li>
+      <li>durch Operationen, Verletzungen, Prellungen</li>
+      <li>durch Sch&ouml;nheitsoperationen verursachte Oedeme</li>
     </ul>
     <h3>FUSSREFLEXZONENMASSAGE</h3>
-    <p>
+    <p class='text-p'>
       ist das Wissen um die «Vernetzung» s&auml;mtlicher
        Organe und K&ouml;rperteile an unseren F&uuml;ssen.
        Zahlreiche Regionen des Fusses stehen in einer
@@ -74,7 +74,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
     ";
 
     $text2 = "<h3>KLASSISCHE VOLL- UND TEILMASSAGE</h3>
-      <p>
+      <p class='text-p'>
         Anliegen der klassischen Massage ist es, der
        k&ouml;rperlichen und seelischen Konstitution des
        Klienten gerecht zu werden und so aus den
@@ -84,7 +84,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
        energiespendend, tiefgehend oder aktivierend sein.
       </p>
       <h3>BINDEGEWEBS-MASSAGE</h3>
-      <p>
+      <p class='text-p'>
         Oder besser ausgedr&uuml;ckt die Reflexzonenmassage
          wirkt &uuml;ber die Haut bzw. &uuml;ber das
          Unterhautgewebe auf das vegetative Nervensystem
@@ -99,16 +99,16 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
           Organen zur Auswirkung kommen.
       </p>
       <h3>DIE MAGNETFELDTHERAPIE</h3>
-      <p>
+      <p class='text-p'>
         Die Wirkungsweise von Magnetfeldbehandlungen
         lassen sich in drei Effekte zusammenfassen:
       </p>
-      <ul>
-        <li><span>-</span>Bessere Durchblutung</li>
-        <li><span>-</span>Erh&ouml;hte Sauerstoffversorgung</li>
-        <li><span>-</span>Angeregter Stoffwechsel</li>
+      <ul class='text-p'>
+        <li>Bessere Durchblutung</li>
+        <li>Erh&ouml;hte Sauerstoffversorgung</li>
+        <li>Angeregter Stoffwechsel</li>
       </ul>
-      <p>
+      <p class='text-p'>
         Zusammenfassend kann gesagt werden, dass
         durch die Magnetfeldtherapie normale Funktionen
          des K&ouml;rpers aktiviert und verbessert werden.
@@ -118,15 +118,15 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
           &uuml;berhaupt.
       </p>
       <h3>MEDIZINISCHE AUS- UND WEITERBILDUNG</h3>
-      <ul>
-        <li><span> - </span>Staatsexamen 1985, Linz (&Ouml;sterreich)</li>
-        <li><span> - </span>Heilbadzentrum St. Moritz</li>
-        <li><span> - </span>ASVZ Z&uuml;rich</li>
-        <li><span> - </span>Seit 1991 in eigener Praxist&auml;tigkeit</li>
-        <li><span> - </span>Mitglied (NVS, VET, EMR)</li>
+      <ul class='text-p'>
+        <li>Staatsexamen 1985, Linz (&Ouml;sterreich)</li>
+        <li>Heilbadzentrum St. Moritz</li>
+        <li>ASVZ Z&uuml;rich</li>
+        <li>Seit 1991 in eigener Praxist&auml;tigkeit</li>
+        <li>Mitglied (NVS, VET, EMR)</li>
       </ul>
       <h3>KOSTEN&Uuml;BERNAHME</h3>
-      <p>
+      <p class='text-p'>
         Die Krankenkassen &uuml;bernehmen die Kosten
         der Behandlungen &uuml;ber die Zusatzversicherung.
       </p>

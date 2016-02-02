@@ -52,8 +52,10 @@
 								<ul class="sub-menu">
 									<li><a href="philosophy.php"><?php echo $lang['nav-philosophy'] ?></a></li>
 									<li><a href="services.php"><?php echo $lang['nav-treatments'] ?></a></li>
-									<li><a><?php echo $lang['nav-seminars'] ?></a></li>
-									<li><a><?php echo $lang['nav-work'] ?></a></li>
+									<li><a href="seminars.php"><?php echo $lang['nav-seminars'] ?></a></li>
+									<li><a href="work.php"><?php echo $lang['nav-work'] ?></a></li>
+									<li><a href="news.php"><?php echo $lang['nav-news'] ?></a></li>
+									<li><a href="links.php"><?php echo $lang['nav-links'] ?></a></li>
 								</ul>
 							</li>
 					    <li><a class="main-link" href="index.php#team-section"><?php echo $lang['nav-team'] ?></a></li>
@@ -73,3 +75,4 @@
 		</div>
 
 	</header>
+	<div class="fader">

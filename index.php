@@ -104,7 +104,7 @@
 	<div id="contact-banner" class="banner inside-banner">
 		<span id="contact-section" class="dummy-anchor"></span>
 		<div class="container">
-		<p>Contact Us</p>
+		<p><?php echo $lang['contact-banner']; ?></p>
 		</div>
 	</div>
 

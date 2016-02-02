@@ -41,6 +41,7 @@ $(document).ready(function() {
 
 
   });
+	$('.fader').delay(200).css('opacity', 1);
 });
 
 $(window).load(function(){
