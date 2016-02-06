@@ -582,6 +582,7 @@ p.text-p {  /* REVISAR !!! */
   position: fixed;
   top: 100px;
   z-index: -1;
+  transition: all .1s ease-in-out;
 }
 
 p.member-info {
