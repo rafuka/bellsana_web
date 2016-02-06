@@ -10,7 +10,10 @@
   $name = "Richard Casanova";
   $info = "Fussreflexzonenmassage<br/>
             Hypnose<br/>
-            Coaching";
+            Coaching<br/>
+            <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;casanova@bellsana.ch";
+
 
 
   $text1 = "

@@ -9,9 +9,9 @@
 
   $name = "Christian Harringer";
   $info = "Dipl. Komplement&auml;r-Therapeut<br/>
-            044 281 31 31<br/>
-            harringer(at)bellsana(dot)ch<br/>
-            www.christian-harringer.ch";
+
+            <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;harringer@bellsana.ch";
 
   $h2 = "KOMPLEMENT&Auml;R-THERAPIE";
   $h3 = "ENERGETISCH-STATISCHE-BEHANDLUNG AKUPUNKTUR-MASSAGE (ESB/APM)";

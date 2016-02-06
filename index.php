@@ -46,7 +46,7 @@
 	<div class="banner inside-banner">
 		<span id="team-section" class="dummy-anchor"></span>
 		<div class="container">
-			<p>Meet The Team</p>
+			<p><?php echo $lang['team-banner']; ?></p>
 		</div>
 	</div>
 

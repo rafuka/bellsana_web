@@ -9,7 +9,10 @@
 
   $name = "Gabriela Thirring";
   $info = "Dipl. Hom&ouml;opathin shp/HVS<br/>
-            Coaching f&uuml;r's Leben ";
+            Coaching f&uuml;r's Leben<br/>
+            <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;thirring@bellsana.ch";
+            ";
 
 
   $text1 = "<h2 class='text-p'>COACHING f&uuml;r's LEBEN; vom Anliegen hin zur L&ouml;sung!</h2>
