@@ -251,7 +251,7 @@ nav ul li a:hover {
   display: flex;
   z-index:1;
   opacity:1;
-  border-radius: 0px 0px 10px 10px;  
+  border-radius: 0px 0px 10px 10px;
 }
 
 .nav-collapse > ul > li:hover > a {
@@ -496,7 +496,7 @@ p.text-p {  /* REVISAR !!! */
   width: 100%;
   margin-bottom: 60px;
   background: radial-gradient(#fa6315, #ea4c1d);
-	
+
 }
 
 .info-circle p {
@@ -650,10 +650,27 @@ ul.text-p li:before {
     color: #ea4c1d; /* or whatever color you prefer */
 }
 
+ol.text-p li {
+  color: #888;
+  font-size: 1.2em;
+}
+
+ol.text-p {
+    margin-bottom: 20px;
+}
+
 .fader {
 	opacity: 0;
 	-webkit-transition: all 1s ease-in-out;
 	transition: all 1s ease-in-out;
+}
+
+.down-icon {
+  font-size: .7em;
+  vertical-align: top;
+  margin-left: 4px;
+  transition: all .15s ease-in-out;
+
 }
 
 .testcol {

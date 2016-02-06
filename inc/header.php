@@ -48,7 +48,7 @@
 						<ul>
 				      <li><a class="main-link" href="index.php"><?php echo $lang['nav-home'] ?></a></li>
 				      <li>
-								<a class="main-link" href="index.php#about-section"><?php echo $lang['nav-about'] ?></a>
+								<a class="main-link" href="index.php#about-section"><?php echo $lang['nav-about'] ?><i class="down-icon fa fa-sort-desc"></i></a>
 								<ul class="sub-menu">
 									<li><a href="philosophy.php"><?php echo $lang['nav-philosophy'] ?></a></li>
 									<li><a href="services.php"><?php echo $lang['nav-treatments'] ?></a></li>

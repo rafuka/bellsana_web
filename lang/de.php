@@ -68,7 +68,7 @@
 	/* ----- services site ----- */
 	$lang['card-back'] = "Mit";
 
-	$lang['services-banner'] = "Our Services";
+	$lang['services-banner'] = "Behandlugen";
 	$lang['serv-1-name'] = "Coaching f&uuml;r's Leben";
 	$lang['serv-2-name'] = "EMF Balancing Technique";
 	$lang['serv-3-name'] = "Fussreflexzonen - massage";

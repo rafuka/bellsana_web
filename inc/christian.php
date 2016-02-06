@@ -16,8 +16,8 @@
   $h2 = "KOMPLEMENT&Auml;R-THERAPIE";
   $h3 = "ENERGETISCH-STATISCHE-BEHANDLUNG AKUPUNKTUR-MASSAGE (ESB/APM)";
 
-  $text1 = "<h2>KOMPLEMENT&Auml;R-THERAPIE</h2>
-    <h3>ENERGETISCH-STATISCHE-BEHANDLUNG AKUPUNKTUR-MASSAGE (ESB/APM)</h3>
+  $text1 = "<h2 class='text-p'>KOMPLEMENT&Auml;R-THERAPIE</h2>
+    <h3 class='text-p'>ENERGETISCH-STATISCHE-BEHANDLUNG AKUPUNKTUR-MASSAGE (ESB/APM)</h3>
     <p class='text-p'>Beide Methoden sind eigenst&aumlndige Behandlungsformen,
   die in sinnvoller Kombination angewendet werden.
   Mit der energetischen Wirkung der Akupunkturmassage
@@ -48,7 +48,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
       Kontrollm&ouml;glichkeiten. Sie bilden Reflexionsorte
       des ganzen K&ouml;rpers.
     </p>
-    <h3>MANUELLE LYMPHDRAINAGE</h3>
+    <h3 class='text-p'>MANUELLE LYMPHDRAINAGE</h3>
     <p class='text-p'>
       Die manuelle Lymphdrainage reinigt das Bindegewebe
        durch ihre pumpenden Bewegungen und hat dadurch
@@ -73,7 +73,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
     </p>
     ";
 
-    $text2 = "<h3>KLASSISCHE VOLL- UND TEILMASSAGE</h3>
+    $text2 = "<h3 class='text-p'>KLASSISCHE VOLL- UND TEILMASSAGE</h3>
       <p class='text-p'>
         Anliegen der klassischen Massage ist es, der
        k&ouml;rperlichen und seelischen Konstitution des
@@ -83,7 +83,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
        Klienten zu erwirken. So kann sie beruhigend,
        energiespendend, tiefgehend oder aktivierend sein.
       </p>
-      <h3>BINDEGEWEBS-MASSAGE</h3>
+      <h3 class='text-p'>BINDEGEWEBS-MASSAGE</h3>
       <p class='text-p'>
         Oder besser ausgedr&uuml;ckt die Reflexzonenmassage
          wirkt &uuml;ber die Haut bzw. &uuml;ber das
@@ -98,7 +98,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
           Dadurch l&ouml;st man Reflexe aus, die an den
           Organen zur Auswirkung kommen.
       </p>
-      <h3>DIE MAGNETFELDTHERAPIE</h3>
+      <h3 class='text-p'>DIE MAGNETFELDTHERAPIE</h3>
       <p class='text-p'>
         Die Wirkungsweise von Magnetfeldbehandlungen
         lassen sich in drei Effekte zusammenfassen:
@@ -117,7 +117,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
           Behandlungsmethoden von den Erkrankungen
           &uuml;berhaupt.
       </p>
-      <h3>MEDIZINISCHE AUS- UND WEITERBILDUNG</h3>
+      <h3 class='text-p'>MEDIZINISCHE AUS- UND WEITERBILDUNG</h3>
       <ul class='text-p'>
         <li>Staatsexamen 1985, Linz (&Ouml;sterreich)</li>
         <li>Heilbadzentrum St. Moritz</li>
@@ -125,7 +125,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
         <li>Seit 1991 in eigener Praxist&auml;tigkeit</li>
         <li>Mitglied (NVS, VET, EMR)</li>
       </ul>
-      <h3>KOSTEN&Uuml;BERNAHME</h3>
+      <h3 class='text-p'>KOSTEN&Uuml;BERNAHME</h3>
       <p class='text-p'>
         Die Krankenkassen &uuml;bernehmen die Kosten
         der Behandlungen &uuml;ber die Zusatzversicherung.
