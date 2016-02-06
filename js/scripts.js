@@ -40,13 +40,13 @@ $(document).ready(function() {
     nav.toggle(500);
   });
 
-  if ($(window).scrollTop() < 200) {
+  if ($(window).scrollTop() < 300) {
     $('.team-img-fixed').css('opacity', 0);
   }
 
 
   $(window).scroll(function() {
-    if ($(window).scrollTop() < 200) {
+    if ($(window).scrollTop() < 300) {
       $('.team-img-fixed').css('opacity', 0);
     }
 
@@ -55,7 +55,7 @@ $(document).ready(function() {
     }
 
     else {
-      if (($(window).scrollTop() > 200) && ($(window).scrollTop()  + $(window).height() < $(document).height() - 200)
+      if (($(window).scrollTop() > 300) && ($(window).scrollTop()  + $(window).height() < $(document).height() - 200)
           && ($('.team-img-fixed').css('opacity') == 0)) {
         $('.team-img-fixed').css('opacity', 1);
       }
