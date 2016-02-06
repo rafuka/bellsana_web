@@ -15,28 +15,28 @@
 			<a href="philosophy.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/1.png" alt="philosophy logo"/>
-					<h3>Our Philosophy</h3>
+					<h3><?php echo $lang['phil-header']; ?></h3>
 					<p><?php echo $lang['phil-info'] ?></p>
 				</div>
 			</a>
 			<a href="services.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/2.png" alt="services logo"/>
-					<h3>Treatments</h3>
+					<h3><?php echo $lang['treat-header']; ?></h3>
 					<p><?php echo $lang['treat-info']; ?></p>
 				</div>
 			</a>
 			<a href="#">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/3.png" alt="seminars logo"/>
-					<h3>Seminars</h3>
+					<h3><?php echo $lang['sem-header']; ?></h3>
 					<p><?php echo $lang['sem-info']; ?></p>
 				</div>
 			</a>
 			<a href="#">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/4.png" alt="work for us logo"/>
-					<h3>Work For Us</h3>
+					<h3><?php echo $lang['work-header']; ?></h3>
 					<p><?php echo $lang['work-info'] ?></p>
 				</div>
 			</a>

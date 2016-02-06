@@ -23,18 +23,29 @@
 
 	/* ----- home site ----- */
 	$lang['banner-1'] = '<p>"Das Bellsana Gesundheitszentrum ist eine Praxisgemeinschaft an zentraler Lage "</p>';
+
+	$lang['phil-header'] = "Unsere Philosophie";
   $lang['phil-info'] = "S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen- oder psychischen Trauma sowie in Lebenskrisen.";
+
+	$lang['work-header'] = "F&uuml;r uns arbeiten";
 	$lang['work-info'] = "Wir suchen eine Kollegin oder
 		einen Kollegen mit einer Methode, die unser
 		bestehendes Team und Angebot ideal erg&auml;nzt oder in
 		der Schmerzbehandlung angewendet wird. ";
+
+	$lang['treat-header'] = "Behandlungen";
 	$lang['treat-info'] = "F&uumlr Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
+
+	$lang['sem-header'] = "Seminare";
 	$lang['sem-info'] = "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 		 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 	 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 		ut aliquip ex ea commodo consequat.";
 
+
+
 	$lang['contact-banner'] = "Standort";
+	$lang['team-banner'] = "&Uuml;ber das team";
 	/* ----- end home site ----- */
 
 	/* ----- philosophy site ----- */
@@ -48,9 +59,9 @@
 ";
 
 	$lang['philosophy-banner'] = "Philosophie";
-	$lang['circle-1'] = "<p>Call Us<br/>+41 44 281 31 31</p>";
-	$lang['circle-2'] = "<p>Email Us<br/>info@bellsana.ch</p>";
-	$lang['circle-3'] = "<p>Browse<br/> our Treatments</p>";
+	$lang['circle-1'] = "<p>Rufen Sie uns an<br/>+41 44 281 31 31</p>";
+	$lang['circle-2'] = "<p>Schreiben Sie uns<br/>info@bellsana.ch</p>";
+	$lang['circle-3'] = "<p>Behandlungen durchsuchen<br/> our Treatments</p>";
 
 	/* ----- end philosophy site ----- */
 

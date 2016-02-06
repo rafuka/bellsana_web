@@ -12,6 +12,7 @@
 	$lang['work-title'] = "Bellsana | Work for Us";
 	/* --- end <head> --- */
 
+
 	/* ----- nav menu ----- */
 	$lang['nav-home'] = "home";
 	$lang['nav-about'] = "about us";
@@ -29,23 +30,32 @@
 	$lang['banner-1'] = '<p>"Bellsana is a holistic practice providing a variety
 		of advisory and treatment services in comfortable
 		private offices"</p>';
+
+	$lang['phil-header'] = "Our philosophy";
   $lang['phil-info'] = "Although we work together to provide
 	 		an holistic service to patients, each bellsana
 			practitioner is individually responsible for his
 			or her professional work and has individual
 			liability coverage vis-&aacute;-vis each other
 			and third parties. ";
+
+	$lang['work-header'] = "Work for us";
 	$lang['work-info'] = "Wir suchen eine Kollegin oder
 		einen Kollegen mit einer Methode, die unser
 		bestehendes Team und Angebot ideal erg&auml;nzt oder in
 		der Schmerzbehandlung angewendet wird. ";
+
+	$lang['treat-header'] = "Treatments";
 	$lang['treat-info'] = "F&uumlr Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
+
+	$lang['sem-header'] = "Seminars";
 	$lang['sem-info'] = "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 		 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 	 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 		ut aliquip ex ea commodo consequat.";
 
 	$lang['contact-banner'] = "Contact Us";
+	$lang['team-banner'] = "Meet the team";
 	/* ----- end home site ----- */
 
 	/* ----- philosophy site ----- */
