@@ -601,7 +601,7 @@ p.member-info {
 }
 
 .footer-wrap h3 {
-  text-transform: uppercase;
+  text-transform: lowercase;
   margin: 0 auto;
   min-width: 150px;
   width: inherit;

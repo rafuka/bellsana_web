@@ -94,7 +94,7 @@
 					<h3>Paul H&ouml;rter</h3>
 					<p>Osteopathie<br/>
 						Physiotherapie<br/>
-						LnB Schmerztherapie
+						LNB Schmerztherapie
 					</p>
 				</div>
 			</a>
@@ -112,7 +112,7 @@
 	<div class="container-fluid contact-wrap">
 		<div id="contact-info">
 			<p>
-				Bellsana Gesundheitzentrum
+				bellsana Gesundheitzentrum
 			</p>
 			<ul>
 				<li>Bleicherweg 54</li>

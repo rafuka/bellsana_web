@@ -29,7 +29,7 @@
         </ul>
       </div>
       <div class="col-xs-12">
-        <p>Bellsansa Gesundheitzentrum &copy;</p>
+        <p>Copyright &copy; <?php echo date('Y'); ?></p>
       </div>
     </div>
   </div><!-- /container -->
