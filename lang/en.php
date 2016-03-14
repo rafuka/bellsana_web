@@ -46,7 +46,7 @@
 		der Schmerzbehandlung angewendet wird. ";
 
 	$lang['treat-header'] = "Treatments";
-	$lang['treat-info'] = "F&uumlr Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
+	$lang['treat-info'] = "F&uuml;r Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
 
 	$lang['sem-header'] = "Seminars";
 	$lang['sem-info'] = "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -85,13 +85,14 @@
 	$lang['serv-2-name'] = "EMF Balancing Technique";
 	$lang['serv-3-name'] = "Fussreflexzonen - massage";
 	$lang['serv-4-name'] = "Klassische Hom&ouml;opathie";
-	$lang['serv-5-name'] = "Osteopathie";
+	$lang['serv-5-name'] = "LNB Schmertztherapie";
 	$lang['serv-6-name'] = "Die Magnetfeldtherapie";
 	$lang['serv-7-name'] = "The Quantum Pulse Machine";
 	$lang['serv-8-name'] = "Hypnose";
 	$lang['serv-9-name'] = "Lymphdrainage";
-	$lang['serv-10-name'] = "LnB Schmertztherapie";
+	$lang['serv-10-name'] = "Osteopathie";
 	$lang['serv-11-name'] = "Komplement&auml;r Therapie";
+	$lang['serv-12-name'] = "Coaching";
 
 	$lang['serv-1-who'] = "Gabriela Thirring";
 	$lang['serv-2-who'] = "Sibylle Seitzmeir";
@@ -104,6 +105,7 @@
 	$lang['serv-9-who'] = "Christian Harringer";
 	$lang['serv-10-who'] = "Paul H&ouml;rter";
 	$lang['serv-11-who'] = "Christian Harringer";
+	$lang['serv-12-who'] = "Richard Casanova";
 
 	$lang['serv-1-anc'] = "team.php?team=gabriela";
 	$lang['serv-2-anc'] = "team.php?team=sibylle";
@@ -116,5 +118,20 @@
 	$lang['serv-9-anc'] = "team.php?team=christian";
 	$lang['serv-10-anc'] = "team.php?team=paul";
 	$lang['serv-11-anc'] = "team.php?team=christian";
+	$lang['serv-12-anc'] = "team.php?team=casanova";
 	/* ----- end services site ----- */
+
+
+	/* ----- footer ----- */
+	$lang['footer-menu-title-1'] = "bellsana";
+	$lang['footer-menu-title-2'] = "contact";
+	$lang['footer-menu-title-3'] = "location";
+
+	$lang['footer-menu-1'] = "home";
+	$lang['footer-menu-2'] = "our philosophy";
+	$lang['footer-menu-3'] = "team";
+	$lang['footer-menu-4'] = "services";
+	$lang['footer-menu-5'] = "work for us";
+
+	/* ----- end footer ----- */
 ?>

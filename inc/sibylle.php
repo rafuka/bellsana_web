@@ -64,6 +64,37 @@
         <li>F&uuml;r Personen mit Herzschrittmacher</li>
       </ul>
       <p class='text-p'>Nichts, was auf dieser Webseite zu finden ist, hat den Anspruch zu diagnostizieren, zu behandeln oder von jeglichen physischen oder medizinischen Konditionen zu heilen. Daf&uuml;r sollten Sie ihren Hausarzt aufsuchen.</p>
-
     ";
+
+    $text1_es = "<h2 class='text-p'>EMF Balancing Technique</h2>
+    <p class='text-p'>Es esencial despertar la confianza en nuestra propia energía.
+      Comparable a un spa espiritual, EMF Balancing Technique provoca la sensación de
+      bienestar y este se extiende hacia todos los aspectos de la vida.
+      Desconocemos cómo encauzar satisfactoriamente nuestros propios sentimientos y
+      nuestra energía en la vida cotidiana. EMF Balancing Technique te ofrece la
+      posibilidad de manejar estas situaciones, estableciendo una mejor conexión con tu
+      propio organismo. De esta forma, se regenera el campo magnético de tu cuerpo y
+      afianza el nexo con tu propio yo. En total existen 12 fases, las cuales se pueden
+      realizar por separado o combinándolas unas con otras.
+      Gracias a mi pasado multicultural usted tiene la la oportunidad de ser asesorado en
+      el idioma que prefiera (español, alemán, inglés, francés o italiano).
+      Estaré encantada de asesorarte de forma personal durante una entrevista.
+      Precio de la sesión: 144 Francos Suizos.
+      Reserva una sesión.
+    </p>";
+
+
+    $text2_es = "<h2 class='text-p'>Ondas</h2>
+      <p class='text-p'>
+        Es el arte de la transformación consciente.
+        Se trata de una fusión única de luz y sonido creada desde las percepciones
+        cuánticas de la señora Peggy Phoenix Dubro y las extraordinarias tonificaciones
+        pineales del doctor Todd Ovokaitys. Usar iestas ondas es una experiencia
+        emocionante y divertida a la vez que transcendente. Se pueden combinar 4 y 5
+        ondas de entre las 36 ondas existentes, dependiendo de las necesidades personales
+        de cada uno.
+        Estaré encantada de asesorarte de forma personal durante una entrevista.
+        Precio de la sesión: 144 Francos Suizos.
+        Reserva una sesión.
+      </p>";
  ?>

@@ -1,7 +1,15 @@
 <?php require("inc/header.php"); ?>
 
 	<div class="jumbotron img-slider">
-		<img class="img-responsive land-img" src="img/belsana44.jpg" alt="Lobby Image"/>
+
+	</div>
+	<div class="flexslider">
+		<ul class="slides">
+			<li><img class="img-responsive land-img" src="img/lobby-not.jpg" alt="Lobby Image"/></li>
+			<li><img class="img-responsive land-img" src="img/belsana44.jpg" alt="Lobby Image"/></li>
+			<li><img class="img-responsive land-img" src="img/belsana.jpg" alt="Lobby Image"/></li>
+			<li><img class="img-responsive land-img" src="img/philosophy.jpg" alt="Lobby Image"/></li>
+		</ul>
 	</div>
 	<div id="aboutbanner" class="banner">
 		<span id="about-section" class="dummy-anchor"></span>

@@ -165,6 +165,20 @@
         <?php echo $lang['serv-11-name']; ?>
       </p>
     </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 circle-wrapper">
+      <div class="card">
+        <div class="serv-circle front">
+          <img src="img/serv_icons/12.png"/>
+        </div>
+        <div class="serv-circle back">
+          <p><?php echo $lang['card-back']; ?></p>
+          <a href="<?php echo $lang['serv-12-anc']; ?>"><?php echo $lang['serv-12-who']; ?></a>
+        </div>
+      </div>
+      <p class="card-info">
+        <?php echo $lang['serv-12-name']; ?>
+      </p>
+    </div>
   </div>
 </div>
 

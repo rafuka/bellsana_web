@@ -12,7 +12,7 @@
             Coaching f&uuml;r's Leben<br/>
             <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
             <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;thirring@bellsana.ch";
-            
+
 
 
   $text1 = "<h2 class='text-p'>COACHING f&uuml;r's LEBEN; vom Anliegen hin zur L&ouml;sung!</h2>
@@ -88,4 +88,8 @@
       <h3 class='text-p'>MEINE ARBEITSSPRACHEN SIND</h3>
       <p class='text-p'>Deutsch, Englisch, Italienisch</p>
     ";
+
+    $quotes[0] = "<p class='text-p'>\"Blah blah blahblha, blha blha! Blah blah blah?\"</p> <p class='text-p'>- Vladimir Villegas</p>";
+    $quotes[1] = "<p class='text-p'>\"Bfsdgjhsflkjghakl jdfhgl kagksfjdfsjga fjkg ksjdfhg fkjgaddf  sdfjghs kjd sjdhfglkj\"</p> <p class='text-p'>- Jacinto Elmio</p>";
+    $quotes[2] = "<p class='text-p'>\"Lorem sklg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg hsdkfhg sdjhg sdhg kjdhsgk hdskg sdh sdhg sdh\"</p> <p class='text-p'>- Yada Yadain</p>";
  ?>

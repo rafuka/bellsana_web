@@ -23,7 +23,7 @@ html, body {
 * {
   font-family: 'glametrix', sans-serif;
   font-size: 24px;
-  transition: all .4s ease-in-out;
+
   line-height: 1em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -277,8 +277,10 @@ nav ul li a:hover {
 }
 .land-img {
   margin: auto;
-  width: 100%;
+  width: auto;
+  height: 500px;
   max-width: 1500px;
+
 }
 
 .banner {
@@ -340,12 +342,15 @@ nav ul li a:hover {
 img.info-img, img.team-img {
 	-webkit-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
+  -webkit-transform: scale(.9);
+	-ms-transform: scale(.9);
+  transform: scale(.9);
 }
 
 a:hover img.info-img, a:hover img.team-img {
-	-webkit-transform: scale(1.15);
-	-ms-transform: scale(1.15);
-  transform: scale(1.15);
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+  transform: scale(1);
 }
 
 
@@ -363,8 +368,9 @@ a:hover img.info-img, a:hover img.team-img {
 }
 
 .team-box img {
-  width: 133px;
+  width: 150px;
   border-radius: 50%;
+
 }
 
 .contact-wrap {
@@ -672,6 +678,27 @@ ol.text-p {
   margin-left: 4px;
   transition: all .15s ease-in-out;
 
+}
+
+.flexslider {
+  border: 0px;
+}
+
+.img-slider {
+  transition: all 0s ease-in-out;
+}
+
+.quotes {
+  height: 100px;
+  background-color: transparent;
+  margin-bottom: 20px;
+}
+
+.quotes .text-p {
+  margin-bottom: 10px;
+  color: white;
+  font-weight: bolder;
+  font-size: 1.3em;
 }
 
 .testcol {

@@ -17,7 +17,7 @@
 	$lang['nav-contact'] = "kontakt";
 	$lang['nav-philosophy'] = "philosophie";
 	$lang['nav-work'] = "wir suchen";
-	$lang['nav-news'] = "news";
+	$lang['nav-news'] = "actuel";
 	$lang['nav-links'] = "links";
 	/* ----- end nav menu -- */
 
@@ -34,7 +34,7 @@
 		der Schmerzbehandlung angewendet wird. ";
 
 	$lang['treat-header'] = "Behandlungen";
-	$lang['treat-info'] = "F&uumlr Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
+	$lang['treat-info'] = "F&uuml;r Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
 
 	$lang['sem-header'] = "Seminare";
 	$lang['sem-info'] = "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -61,7 +61,7 @@
 	$lang['philosophy-banner'] = "Philosophie";
 	$lang['circle-1'] = "<p>Rufen Sie uns an<br/>+41 44 281 31 31</p>";
 	$lang['circle-2'] = "<p>Schreiben Sie uns<br/>info@bellsana.ch</p>";
-	$lang['circle-3'] = "<p>Behandlungen durchsuchen<br/> our Treatments</p>";
+	$lang['circle-3'] = "<p>Behandlungen durchsuchen</p>";
 
 	/* ----- end philosophy site ----- */
 
@@ -73,13 +73,14 @@
 	$lang['serv-2-name'] = "EMF Balancing Technique";
 	$lang['serv-3-name'] = "Fussreflexzonen - massage";
 	$lang['serv-4-name'] = "Klassische Hom&ouml;opathie";
-	$lang['serv-5-name'] = "Osteopathie";
+	$lang['serv-5-name'] = "LNB Schmerztherapie";
 	$lang['serv-6-name'] = "Die Magnetfeldtherapie";
 	$lang['serv-7-name'] = "The Quantum Pulse Machine";
 	$lang['serv-8-name'] = "Hypnose";
 	$lang['serv-9-name'] = "Lymphdrainage";
-	$lang['serv-10-name'] = "LnB Schmertztherapie";
+	$lang['serv-10-name'] = "Osteopathie";
 	$lang['serv-11-name'] = "Komplement&auml;r Therapie";
+	$lang['serv-12-name'] = "Coaching";
 
 	$lang['serv-1-who'] = "Gabriela Thirring";
 	$lang['serv-2-who'] = "Sibylle Seitzmeir";
@@ -92,6 +93,7 @@
 	$lang['serv-9-who'] = "Christian Harringer";
 	$lang['serv-10-who'] = "Paul H&ouml;rter";
 	$lang['serv-11-who'] = "Christian Harringer";
+	$lang['serv-12-who'] = "Richard Casanova";
 
 	$lang['serv-1-anc'] = "team.php?team=gabriela";
 	$lang['serv-2-anc'] = "team.php?team=sibylle";
@@ -104,6 +106,7 @@
 	$lang['serv-9-anc'] = "team.php?team=christian";
 	$lang['serv-10-anc'] = "team.php?team=paul";
 	$lang['serv-11-anc'] = "team.php?team=christian";
+	$lang['serv-12-anc'] = "team.php?team=richard";
 	/* ----- end services site ----- */
 
 	/* ----- work site ----- */
@@ -152,7 +155,87 @@ Frei zur Mitarbeit wird ab 2015 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. alle
 <a target='_blank' href='http://www.iip.ch/index.php'>www.iip.ch/index.php</a> - Zentrum f&uuml;r Psychotraumatologie&nbsp;und Traumatherapie&nbsp;in Schaffhausen<br>
 <a target='_blank' href='http://www.somatic-experiencing.de/'>www.somatic-experiencing.de</a><br>
 <a target='_blank' href='http://www.michaela-huber.com/'>www.michaela-huber.com</a> - EMDR und Trauma</p>
-		";
+<h3 class='text-p'>THEMA: GESUND UND WISSENWERTES</h3>
+<p class='text-p'><a target='_blank' href='http://www.gesundheitlicheaufklaerung.de/'>www.gesundheitlicheaufklaerung.de</a> - Ein Forum f&uuml;r Aufkl&auml;rung und Informationen zur Gesundheit<br>
+<a target='_blank' href='http://www.impfforum.ch/'>www.impfforum.ch</a> - Nationales Forum f&uuml;r neue Wege in Medizin und Gesellschaft<br>
+<a target='_blank' href='http://www.impfo.ch/'>www.impfo.ch</a> - F&ouml;rderung der unabh&auml;ngigen und eigenst&auml;ndigen Meinung in Impfangelegenheiten<br>
+<a target='_blank' href='http://www.impfschaden.ch/'>www.impfschaden.ch</a> - Mehr Transparenz &uuml;ber Impfungen und Impfsch&auml;den</p>
+<h3 class='text-p'>THEMA: COACHING UND STRUKTURAUFSTELLUNGEN</h3>
+<p class='text-p'><a target='_blank' href='http://www.syst.info/'>www.syst.info</a> - Insa Sparrer und Matthias Varga von Kibéd, Institut, Ausbildung&nbsp;und Forschung<br>
+<a target='_blank' href='http://www.meihei.de/'>www.meihei.de</a> - Milton-Erickson Institut Heidelberg<br>
+<a href='http://www.systconnect.net/' target='_blank'>www.systconnect.net</a> - Vernetzung Strukturaufstellungen nach SySt<br>
+<a target='_blank' href='http://www.kurszentrum.ch/'>www.kurszentrum.ch</a> - ZiS Zentrum f&uuml;r interdisziplin&auml;re Systemtherapie, Werner Herren<br>
+<a target='_blank' href='http://www.thiesstahl.de/'>www.thiesstahl.de</a> - NLP und mehr mit Thies Stahl<br>
+<a target='_blank' href='http://www.kaiser-rekkas.de/'>www.kaiser-rekkas.de</a> - Hypnose Agnes Kaiser-Rekkas</p>
+<h3 class='text-p'>THEMA: HOM&Ouml;OPATHIE</h3>
+<p class='text-p'><a target='_blank' href='http://www.schmidt-nagel.ch/'>www.schmidt-nagel.ch</a> - Referenz in Europa f&uuml;r Qualit&auml;t<a target='_blank' href='http://www.spagyros.ch/'><br>
+www.spagyros.ch</a> - Die Naturheilmittel mit Zukunft<br>
+<a target='_blank' href='http://www.vkh.ch/'>www.vkh.ch</a> - Verband Hom&ouml;opathInnen Schweiz<br>
+<a target='_blank' href='http://www.gesund.ch/'>www.gesund.ch</a> - Naturheilerverzeichnis der Schweiz<br>
+<a target='_blank' href='http://www.dgkh-homoeopathie.de/'>www.dgkh-homoeopathie.de</a> - Deutsche Gesellschaft f&uuml;r Klassische Hom&ouml;opathie<br>
+- Hom&ouml;opathie Verband Schweiz<br>
+<a target='_blank' href='http://www.dgmh.org/'>www.dgmh.org</a> - Deutsche Gesellschaft f&uuml;r miasmatische Hom&ouml;opathie<br>
+<a target='_blank' href='http://www.nvs-schule.ch/'>www.nvs-schule.ch</a> - Natur&auml;rzte Verband Schweiz<br>
+<a target='_blank' href='http://www.nath-pool.ch/'>www.nath-pool.ch</a> - Verzeichnis Naturheilkunde und Komplement&auml;r-Therapie Schweiz<br>
+<a target='_blank' href='http://www.gesunder-mensch.de/'>www.gesunder-mensch.de</a> - Portal f&uuml;r alternative und ganzheitliche Heilmethoden<br>
+<a target='_blank' href='http://www.vfkh.ch/index.php?id=76'>www.vfkh.ch</a> - Verein zur F&ouml;rderung der klassischen Hom&ouml;opathie<br>
+<a target='_blank' href='http://www.keller-praxisbedarf.ch/'>www.keller-praxisbedarf.ch</a> - Online Shop</p>
+
+<h3 class='text-p'>THEMA: ANALYSEN/MESSUNGEN</h3>
+<p class='text-p'><a target='_blank' href='http://www.wohngesundheit.ch/'>www.wohngesundheit.ch</a> - BauBioAnalysenGmbH<br>
+<a target='_blank' href='http://www.iabc.ch/'>www.iabc.ch</a> - IABC Laboranalytik<br>
+<a target='_blank' href='http://www.openingdoors.ch/page1.php'>www.openingdoors.ch</a> - Frau Tamara Lang/Feng-Shui-Beraterin</p>
+<h3 class='text-p'>THEMA: OSTEOPATHIE</h3>
+<p class='text-p'><a target='_blank' href='http://www.college-sutherland.de/'>www.college-sutherland.de</a> - GCOM - Vollzeit-Studiengang f&uuml;r osteopathische Medizin in 5 Jahren<br>
+<a target='_blank' href='http://www.osteopathie.de/'>www.osteopathie.de</a> - Deutscher Verband der Osteopathen<br>
+<a target='_blank' href='http://www.svo-fso.ch/'>www.svo-fso.ch</a> - Schweizer Verband der Osteopathen<br>
+<a target='_blank' href='http://www.jaoa.org/'>www.jaoa.org</a><br>
+<a href='http://www.cranialacademy.org/' target='_blank'>www.cranialacademy.org</a> - Fachgruppe von Forschern<br>
+<a target='_blank' href='http://www.asca.ch/'>www.asca.ch</a> - Liste Zusatzversicherungen, die Osteopathie &uuml;bernehmen<br>
+<a target='_blank' href='http://www.emr.ch/'>www.emr.ch</a>  - Liste Zusatzversicherungen, die Osteopathie &uuml;bernehmen</p>
+<h3 class='text-p'>THEMA: ENERGIETHERAPIE</h3>
+<p class='text-p'><a target='_blank' href='http://www.richardcasanova.ch/'>www.richardcasanova.ch</a> - Energetische Fussreflexzonenmassag und Energietherapie<br>
+<a target='_blank' href='http://www.living-in-balance.org'>www.living-in-balance.org</a>&nbsp;- EMF Balancing Technique und Quantum Pulse Maschine</p>
+<h3 class='text-p'>THEMA: ERN&Auml;HRUNG UND VITALSTOFFE</h3>
+<p class='text-p'><a target='_blank' href='http://www.feos.ch/'>www.feos.ch</a> - Fachgesellschaft f&uuml;r Ern&auml;hrung und Orthomolekularmedizin Schweiz<br>
+<a target='_blank' href='http://www.sge-ssn.ch/'>www.sge-ssn.ch</a> - Schweizerische Gesellschaft f&uuml;r Ern&auml;hrung<br>
+<a target='_blank' href='http://www.orthoanalytic.ch/'>www.orthoanalytic.ch</a> - Labor f&uuml;r human- und umweltmedizinische Analysen<br>
+<a target='_blank' href='http://www.iabc.ch/'>www.iabc.ch</a> - Spezialisierte Laboranalytik</p>
+<h3 class='text-p'>THEMA: FAMILIENPLANUNG UND VERH&uuml;TUNG</h3>
+<p class='text-p'><a target='_blank' href='http://www.lady-comp.ch/de'>www.lady-comp.ch/de</a> - die nat&uuml;rliche, sichere und weiblichste Methode zur Verh&uuml;tung und f&uuml;r die Familienplanung</p>
+<h3 class='text-p'>THEMA: NATUR UND ...</h3>
+<p class='text-p'><a target='_blank' href='http://www.naturprozesse.com/'>www.naturprozesse.com</a> - Geologische Exkursionen, um Naturprozesse zu erleben und zu verstehen</p>
+<h3 class='text-p'>THEMA: SUCHT</h3>
+<p class='text-p'><a target='_blank' href='http://www.infoset.ch/'>www.infoset.ch</a> - Die Schweizer Web-Adresse im Suchtbereich<br>
+<a target='_blank' href='http://www.fachverbandsucht.ch/'>www.fachverbandsucht.ch</a> - Verband der Deutschschweizer Suchtfachleute<br>
+<a target='_blank' href='http://www.fachklinik-sankt-lukas.de/'>www.fachklinik-sankt-lukas.de</a> - Gesundheitsakademie St. Lukas<br>
+<a target='_blank' href='http://www.christoph-dornier-klinik.de/'>www.christoph-dornier-klinik.de</a> - Klinik f&uuml;r Psychotherapie<br>
+<a target='_blank' href='http://www.zfge.de/'>www.zfge.de</a> - Zentrum f&uuml;r Gesundheitsf&ouml;rderung und Erwachsenenbildung</p>
+<h3 class='text-p'>THEMA: DEPRESSIONEN</h3>
+<p class='text-p'><a target='_blank' href='http://www.dr-walser.ch/depression.htm'>www.dr-walser.ch/depression.htm</a> - Dr. med Thomas Walsers medizinische Homepage</p>
+<h3 class='text-p'>THEMA: ESSST&Ouml;RUNGEN</h3>
+<p class='text-p'><a target='_blank' href='http://www.essstoerungen.ch/'>www.essstoerungen.ch</a> - Beratungsstelle bei Essst&ouml;rungen<br>
+<a target='_blank' href='http://www.magersucht.ch/'>www.magersucht.ch</a><br>
+<a target='_blank' href='http://www.netzwerk-essstoerungen.ch/'>www.netzwerk-essstoerungen.ch</a> - Experten-Netzwerk Essst&ouml;rungen<br>
+<a target='_blank' href='http://www.netzwerk-essstoerungen.ch/d/infos/selbstbeurtg/slb_magerst.htm'>Selbstbeurteilungsbogen</a> - zur Magersucht</p>
+<h3 class='text-p'>THEMA: SEXUELLER &Uuml;BERGRIFF</h3>
+<p class='text-p'><a target='_blank' href='http://www.lilli.ch/'>www.lilli.ch</a><br>
+<a target='_blank' href='http://www.lebensgeschichten.org/missbrauch'>www.lebensgeschichten.org/missbrauch</a> - Was ist sexueller Missbrauch?</p>
+";
+
 	/* ----- end links site ----- */
 
+
+	/* ----- footer ----- */
+	$lang['footer-menu-title-1'] = "bellsana";
+	$lang['footer-menu-title-2'] = "kontakt";
+	$lang['footer-menu-title-3'] = "standort";
+
+	$lang['footer-menu-1'] = "home";
+	$lang['footer-menu-2'] = "philosophie";
+	$lang['footer-menu-3'] = "team";
+	$lang['footer-menu-4'] = "angebot";
+	$lang['footer-menu-5'] = "wir suchen";
+
+	/* ----- end footer ----- */
 ?>

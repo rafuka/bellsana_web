@@ -32,8 +32,22 @@
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.0/animate.min.css">
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
+
 	<script src="https://maps.googleapis.com/maps/api/js"></script>
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+    $('.flexslider').flexslider({
+			slideshowSpeed: 5000,
+			animationDuration: 1500,
+			directionNav: false,             //Boolean: Create navigation for previous/next navigation? (true/false)
+			controlNav: false
+		});
+  });
+</script>
 </head>
 <body>
 	<header class="container-fluid">
