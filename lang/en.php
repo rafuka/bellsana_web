@@ -121,6 +121,10 @@
 	$lang['serv-12-anc'] = "team.php?team=casanova";
 	/* ----- end services site ----- */
 
+	/* news site */
+	$lang['news-banner'] = "News";
+
+	/* end news site */
 
 	/* ----- footer ----- */
 	$lang['footer-menu-title-1'] = "bellsana";

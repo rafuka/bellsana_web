@@ -1,7 +1,7 @@
 <?php
   $img1 = "img/richard1.jpg";
   $img2 = "img/richard2.jpg";
-  $img3 = "img/richard2.jpg";
+  $img3 = "img/richard3.jpg";
 
   $img1_alt = "Richard's main portrait";
   $img2_alt = "Richard's photograph 2";

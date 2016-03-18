@@ -286,7 +286,7 @@ nav ul li a:hover {
 .banner {
   width: 100%;
   background-color: #eae300;
-  padding: 50px 0px;
+  padding: 35px 0px;
   margin-bottom: 55px;
 }
 
@@ -586,8 +586,9 @@ p.text-p {  /* REVISAR !!! */
 }
 .team-img-fixed {
   position: fixed;
-  top: 100px;
+  top: 80px;
   z-index: -1;
+  -webkit-transition: all .1s ease-in-out;
   transition: all .1s ease-in-out;
 }
 
@@ -701,6 +702,103 @@ ol.text-p {
   font-size: 1.3em;
 }
 
+.extra-lang {
+  padding: 0;
+}
+
+.extra-lang li {
+  margin: 10px 0px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.extra-lang li a {
+
+}
+
+.extra-lang li a span {
+  margin-right: 10px;
+  border-radius: 15%;
+}
+
+#open-popup:hover {
+  cursor: pointer;
+}
+
+#popup {
+  display: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  background-color: rgba(0,0,0,0.8);
+  z-index: 999;
+}
+
+#popup .popup-container {
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  margin: 50px auto;
+  overflow: scroll;
+  border-radius: 7px;
+}
+
+.popup-content h2 {
+    text-align: center;
+    padding-top: 5px;
+    overflow: scroll;
+    color: #ea4c1d;
+    font-size: 1.5em;
+}
+
+.quotes ul {
+  padding: 0 10%;
+}
+
+.quotes blockquote {
+  font-style: italic;
+  margin: 15px;
+  font-size: 1em;
+  padding: 0;
+  border: 0;
+  margin-bottom: 0px;
+}
+
+.quotes hr {
+  border-top: 2px solid #eae300;
+}
+
+blockquote::before {
+  content: "\"";
+  font-size: 1.7em;
+  vertical-align: middle;
+}
+
+blockquote::after {
+  content: "\"";
+  font-size: 1.7em;
+  vertical-align: middle;
+}
+
+#close {
+  float: right;
+  display: inline;
+  font-weight: bolder;
+  font-size: 1.6em;
+  margin-right: 20px;
+  position: fixed;
+  right: 10%;
+  top: 55px;
+}
+
+#close:hover {
+  cursor: pointer;
+}
+
+.extra-
 .testcol {
   background-color: red;
   opacity: 0.5;

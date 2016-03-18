@@ -1,4 +1,5 @@
-<?php require("inc/header.php");
+<?php require("inc/header.php");?>
+<?php
   if (isset($_GET['team'])) {
     switch($_GET['team']) {
       case "christian":
@@ -33,24 +34,47 @@
   }
 ?>
 
+<div id="popup">
+    <a id="close">x</a>
+    <div class="popup-container">
+      <div class="popup-content">
+        <h2>Patientenstimmen</h2>
+          <div class="quotes">
+        		<ul>
+              <?php foreach ($quotes as $quote): ?>
+        			   <li><?php echo $quote ?></li>
+                 <hr/>
+        			<?php endforeach;?>
+        		</ul>
+        	</div> <!--/ quotes -->
+        </div><!--/ popup-content -->
+    </div><!-- popup-container -->
+</div><!--/ popup -->
+
 <div class="jumbotron img-slider">
   <img class="img-responsive land-img" src="<?php echo $img1 ?>" alt="<?php echo $img1_alt; ?>"/>
 </div>
+
 <div class="banner nomarginbanner">
   <div class="container text-center">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-xs-12">
         <h2><?php echo $name ?></h2>
         <p class="member-info"><?php echo $info ?></p>
-      </div>
+        <?php if (isset($quotes)): ?>
+          <a id="open-popup">Patientenstimmen</a>
+        <?php endif; ?>
+
       <?php if ($_GET['team'] == 'sibylle'): ?>
-      <div class="col-md-6">
-        <ul>
-          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle'?>">Deutsch</a></li>
-          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=es'?>">Spanisch</a></li>
+
+        <ul class="extra-lang">
+          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle'?>"><span class="flag-icon flag-icon-de"></span>Deutsch</a></li>
+          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=es'?>"><span class="flag-icon flag-icon-es"></span>Spanisch</a></li>
+          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=fr'?>"><span class="flag-icon flag-icon-fr"></span>Franz&ouml;sisch</a></li>
         </ul>
-      </div>
+
       <?php endif; ?>
+      </div>
     </div>
   </div>
 </div>
@@ -63,6 +87,10 @@
           switch($_GET['extra_lang']) {
             case "es":
               echo $text1_es;
+              break;
+
+            case "fr":
+              echo $text1_fr;
               break;
 
             default:
@@ -91,6 +119,10 @@
               echo $text2_es;
               break;
 
+            case "fr":
+              echo $text2_fr;
+              break;
+
             default:
               echo $text2;
               break;
@@ -103,24 +135,7 @@
     </div>
   </div><!-- end row -->
 </div><!--/ container -->
-<?php if ($_GET['team'] == 'gabriela'): ?>
-  <div class="banner nomarginbanner">
-    <p>Opinions from my clients:</p><br/>
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12">
-      <div class="flexslider quotes">
-    		<ul class="slides">
-    			<li><?php echo $quotes[0] ?></li>
-    			<li><?php echo $quotes[1] ?></li>
-          <li><?php echo $quotes[2] ?></li>
-    		</ul>
-    	</div>
-    </div>
-  </div>
-</div>
-</div>
-<?php endif; ?>
+
 
 
 <?php require("inc/footer.php"); ?>

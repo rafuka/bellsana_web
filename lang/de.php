@@ -17,7 +17,7 @@
 	$lang['nav-contact'] = "kontakt";
 	$lang['nav-philosophy'] = "philosophie";
 	$lang['nav-work'] = "wir suchen";
-	$lang['nav-news'] = "actuel";
+	$lang['nav-news'] = "aktuell";
 	$lang['nav-links'] = "links";
 	/* ----- end nav menu -- */
 
@@ -27,7 +27,7 @@
 	$lang['phil-header'] = "Unsere Philosophie";
   $lang['phil-info'] = "S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen- oder psychischen Trauma sowie in Lebenskrisen.";
 
-	$lang['work-header'] = "F&uuml;r uns arbeiten";
+	$lang['work-header'] = "Mit uns arbeiten";
 	$lang['work-info'] = "Wir suchen eine Kollegin oder
 		einen Kollegen mit einer Methode, die unser
 		bestehendes Team und Angebot ideal erg&auml;nzt oder in
@@ -139,7 +139,15 @@ Frei zur Mitarbeit wird ab 2015 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. alle
 			<li>Im Fokus stehen Ganzk&ouml;rper-&nbsp;und Fussreflexzonen-Massage</li>
 			<li>Wecke neue Lebensenergie, und bringe sie zum Fliessen</li>
 		</ul>
-		<p class='text-p'>&nbsp;(18.7.2012)</p>";
+		<p class='text-p'>&nbsp;(18.7.2012)</p>
+
+		<h3 class='text-p'>EMF Balancing Technique:</h3>
+
+<p class='text-p'>Gerne bilde ich Sie aus f&uuml;r diese wunderbare Arbeit in Ihrer Praxis anzuwenden. Ich gebe die Phasen 1- 8 auf deutsch/franz&ouml;sisch/spanisch/englisch und italienisch.
+Freu mich auf Sie!
+Herzlichst
+Sibylle</p>
+		";
 
 	/* ----- end seminars site ----- */
 

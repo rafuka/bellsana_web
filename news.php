@@ -16,7 +16,7 @@
     <div class="col-xs-12 col-sm-9">
         <?php echo $lang['news-text']; ?>
 		<div>
-			<a target="blank_">
+			<a href="pdf/Harringer_PDF.pdf" target="blank_">
 				<img id="pdf-icon" src="img/pdf_icon.png"/>
 				BERICHT SCHWEIZER ILLUSTRIERTE, 09. Februar 2009:<br>
 				LYMPHDRAINAGE: Mit Sch&ouml;pf-, Dreh- und Pumpgriffen zum Erfolg

@@ -1,5 +1,8 @@
 <?php
-	session_start();
+	if (!session_id()) {
+		session_start();
+	}
+
 	if (isset($_GET['lang'])) {
 		$_SESSION['lang'] = $_GET['lang'];
 		header('Location:'.$_SERVER['PHP_SELF']);
@@ -34,6 +37,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.0/animate.min.css">
 	<link rel="stylesheet" href="css/flexslider.css" type="text/css">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/flag-icon.min.css" rel="stylesheet" type="text/css">
 
 	<script src="https://maps.googleapis.com/maps/api/js"></script>
 	<script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
@@ -81,7 +85,6 @@
 			<div class="col-xs-3 col-md-2">
 				<ul id="lang-list">
 					<li><a href="index.php?lang=de">De</a></li>
-					<li><a href="index.php?lang=fr">Fr</a></li>
 					<li><a href="index.php?lang=it">It</a></li>
 					<li><a href="index.php?lang=en">En</a></li>
 				</ul>

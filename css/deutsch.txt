@@ -1,0 +1,157 @@
+
+	/*-------------
+		Deutsch
+	--------------*/
+
+
+	/* ----- nav menu ----- */
+  "home";
+	"info";
+	"team";
+	"angebot";
+	"seminare";
+	"kontakt";
+	"philosophie";
+	"wir suchen";
+	"actuel";
+	"links";
+	/* ----- end nav menu -- */
+
+	/* ----- home site ----- */
+	"Das Bellsana Gesundheitszentrum ist eine Praxisgemeinschaft an zentraler Lage";
+
+	"Unsere Philosophie";
+
+  "Sämtliche Dienstleistungen bieten wir auch in Ergänzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, während oder nach einer Chemotherapie, bei einem körperlichen- oder psychischen Trauma sowie in Lebenskrisen.";
+
+	"Für uns arbeiten";
+
+	"Wir suchen eine Kollegin oder
+		einen Kollegen mit einer Methode, die unser
+		bestehendes Team und Angebot ideal ergänzt oder in
+		der Schmerzbehandlung angewendet wird. ";
+
+	"Behandlungen";
+
+	"Fur Ihre Gesundheit unterbreiten wir Ihnen in harmonischen Räumen ein vielfältiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Homöopathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
+
+	"Seminare";
+
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+		 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+		ut aliquip ex ea commodo consequat.";
+
+
+
+	"Standort";
+
+	"über das team";
+
+	/* ----- end home site ----- */
+
+	/* ----- philosophy site ----- */
+
+	"Das bellsana Gesundheitszentrum ist eine Praxisgemeinschaft an zentraler Lage (ohne solidarische Haftung untereinander sowie gegenüber Drittpersonen).
+Für Ihre Gesundheit unterbreiten wir Ihnen in harmonischen Räumen ein vielfältiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Homöopathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.
+Sämtliche Dienstleistungen bieten wir auch in Ergänzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, während oder nach einer Chemotherapie, bei einem körperlichen- oder psychischen Trauma sowie in Lebenskrisen.
+Lesen Sie dazu auch die ergänzenden Informationen der einzelnen Methoden.
+Mit dem Ziel, die Selbstheilungskräfte und die Lebensqualität jedes Klienten zu optimieren, arbeiten wir mit ärzten aller Fachrichtungen, Instituten und Labors zusammen. Ausserdem pflegen wir die ganzheitliche Zusammenarbeit innerhalb unseres Teams am Bleicherweg.
+Nach Möglichkeit stehen während der Behandlung ein Notfalldienst sowie Hausbesuche zu Ihrer Verfügung!
+Rufen Sie uns an, wir beraten Sie gerne auch am Telefon in den Sprachen Deutsch, Englisch, Französisch und Italienisch.
+";
+
+	"Philosophie";
+
+	"Rufen Sie uns an<br/>+41 44 281 31 31";
+
+	"Schreiben Sie uns<br/>info@bellsana.ch";
+
+	"Behandlungen durchsuchen";
+
+	/* ----- end philosophy site ----- */
+
+	/* ----- services site ----- */
+	"Mit";
+
+	"Behandlugen";
+
+	"Coaching für's Leben";
+
+  "EMF Balancing Technique";
+
+	"Fussreflexzonen - massage";
+
+  "Klassische Homöopathie";
+
+  "LNB Schmerztherapie";
+
+  "Die Magnetfeldtherapie";
+
+  "The Quantum Pulse Machine";
+
+  "Hypnose";
+
+  "Lymphdrainage";
+
+  "Osteopathie";
+
+  "Komplementär Therapie";
+
+  "Coaching";
+
+	/* ----- end services site ----- */
+
+	/* ----- work site ----- */
+
+  "Wir Suchen";
+
+  "im Januar 2015
+		Wir suchen eine Kollegin oder einen Kollegen mit einer Methode, die unser bestehendes  Team und Angebot ideal ergänzt oder in der Schmerzbehandlung angewendet wird. Dies kann mittels Atemtherapie, Coaching, TCM, Ernährungsberatung oder das Angebot einer Podologin/Kosmetikerin sein, die gerne ihre Kundschaft an bester Lage empfangen will.
+		Bringen Sie den Wunsch nach interdisziplinärer Zusammenarbeit in einem&nbsp;Team mit?&nbsp;Wir bieten an zürichs bester Citylage eine professionelle Plattform, mit Sekretariatsdienst,&nbsp;harmonische Arbeitsräume, Nähe zu allen Bahnhöfen sowie 2 Stunden Parkmöglichkeiten in der Umgebung.<br>
+    Frei zur Mitarbeit wird ab 2015 ein schöner Raum mit 14m2 (Miete inkl. aller Betriebskosten wie Reinigung, Sekretariatsdienst, Internetzugang, eigene Mailadresse, EWZ, usw. 1'270.00 CHF) mit Stukkatur und altem Parkett, eigene Waschmaschine und Tumbler vorhanden.
+		Für weitere Informationen freuen wir uns auf Ihre Kontaktaufnahme!";
+
+	/* ----- end work site ----- */
+
+
+	/* ----- news site ----- */
+	"Aktuell";
+
+  "Januar 2015 - Wir vermieten einen Behandlungsraum an einen Kollegen/Kollegin oder auch an eine Kosmetikerin/Pedicure. Weiterführende Informationen unter \"wir suchen\". Melden Sie sich einfach per Telefon oder Mail.
+		Wie Christian Harringer, Komplemetär-Therapeut bei bellsana, den Betroffenen durch Lymphdrainage zu neuer Lebensqualität verhilft:";
+
+	/* ----- end news site ----- */
+
+	/* ----- seminars site ----- */
+	"Seminare";
+
+  "Vitalstructures-Seminare - Coaching für's Leben";
+
+			"Coaching für's Leben - Navigationshilfen";
+
+			"Zweitagesseminare abwechslungsweise in der Schweiz, in Deutschland und in Italienu";
+
+		"Massage-Kurse - LEARNING BY DOING";
+
+			"Im Fokus stehen Ganzkörper- und Fussreflexzonen-Massageu";
+			"Wecke neue Lebensenergie, und bringe sie zum Fliessenu";
+
+
+
+	/* ----- end seminars site ----- */
+
+	
+	/* ----- footer ----- */
+
+	"bellsana";
+	"kontakt";
+	"standort";
+
+	"home";
+	"philosophie";
+	"team";
+	"angebot";
+  "wir suchen";
+
+	/* ----- end footer ----- */

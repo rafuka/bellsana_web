@@ -6,9 +6,7 @@
 	<div class="flexslider">
 		<ul class="slides">
 			<li><img class="img-responsive land-img" src="img/lobby-not.jpg" alt="Lobby Image"/></li>
-			<li><img class="img-responsive land-img" src="img/belsana44.jpg" alt="Lobby Image"/></li>
-			<li><img class="img-responsive land-img" src="img/belsana.jpg" alt="Lobby Image"/></li>
-			<li><img class="img-responsive land-img" src="img/philosophy.jpg" alt="Lobby Image"/></li>
+			<li><img class="img-responsive land-img" src="img/lobby_this.jpg" alt="Lobby Image"/></li>
 		</ul>
 	</div>
 	<div id="aboutbanner" class="banner">
@@ -34,14 +32,14 @@
 					<p><?php echo $lang['treat-info']; ?></p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="seminars.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/3.png" alt="seminars logo"/>
 					<h3><?php echo $lang['sem-header']; ?></h3>
 					<p><?php echo $lang['sem-info']; ?></p>
 				</div>
 			</a>
-			<a href="#">
+			<a href="work.php">
 				<div class="col-xs-12 col-sm-6 col-md-3 info-box">
 					<img class="info-img" src="img/4.png" alt="work for us logo"/>
 					<h3><?php echo $lang['work-header']; ?></h3>

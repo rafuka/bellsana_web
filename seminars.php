@@ -3,7 +3,7 @@
 
 
 <div class="jumbotron img-slider">
-  <img class="img-responsive land-img" src="img/philosophy.jpg" alt="Bellsana's philosophy image banner"/>
+  <img class="img-responsive land-img" src="img/seminare.jpg" alt="Bellsana's seminars image banner"/>
 </div>
 
 <div class="banner">

@@ -50,11 +50,11 @@
 
 	/* ----- philosophy site ----- */
 	$lang['philosophy-text'] = "<p class='text-p'>bellsana® e un centro per la sua
-	salute (senza responsabilità solidari tra vi loro o tra persone terzi). Un centro
+	salute (senza responsabilit&agrave; solidari tra vi loro o tra persone terzi). Un centro
 	 in offerta diverso metodi in Cantone Grigioni/Ticino e a Zurigo.</p>
 <p class='text-p'>Per la sua salute voi afferiamo diverse coonsultazioni e terapie in metodi complementare della medicina tradizionale. Chi sono Omeopatia, fitoterapia, medicina naturale, terapie manuali, osteopatia, medicina cinese, diverse psichoterapie, consultazione dell'alimentazione ecc.</p>
-<p class='text-p'>Il nostro servizio e per Uomo e Donne dall'età di anni da bambino fino anziano, durante la gravidanza, puerpere. Post operativo, in caso di gravi malattie, in compagnia o dopo la terapie antitumorali (può ridurre gli effetti collaterali delle terapie antitumorali), da un trauma psichici o fisico e oltre in tutti li crisi.</p>
-<p class='text-p'>Coll'obiettivo di rafforzare l'energia vitale e migliorare la qualità di'vita collaboriamo con tutte le direzioni di medici, va rii Istituti e Laboratori.</p>
+<p class='text-p'>Il nostro servizio e per Uomo e Donne dall'et&agrave; di anni da bambino fino anziano, durante la gravidanza, puerpere. Post operativo, in caso di gravi malattie, in compagnia o dopo la terapie antitumorali (pu&ograve; ridurre gli effetti collaterali delle terapie antitumorali), da un trauma psichici o fisico e oltre in tutti li crisi.</p>
+<p class='text-p'>Coll'obiettivo di rafforzare l'energia vitale e migliorare la qualit&agrave; di'vita collaboriamo con tutte le direzioni di medici, va rii Istituti e Laboratori.</p>
 <p class='text-p'>Durante la cura voi offriamo visite al domicilio.</p>
 <p class='text-p'>Sul telefono possiamo informarvi in Lingua italiana, inglese, tedesco e francese.</p>
 ";
@@ -162,7 +162,7 @@ Frei zur Mitarbeit wird ab 2015 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. alle
 <a target='_blank' href='http://www.impfo.ch/'>www.impfo.ch</a> - F&ouml;rderung der unabh&auml;ngigen und eigenst&auml;ndigen Meinung in Impfangelegenheiten<br>
 <a target='_blank' href='http://www.impfschaden.ch/'>www.impfschaden.ch</a> - Mehr Transparenz &uuml;ber Impfungen und Impfsch&auml;den</p>
 <h3 class='text-p'>THEMA: COACHING UND STRUKTURAUFSTELLUNGEN</h3>
-<p class='text-p'><a target='_blank' href='http://www.syst.info/'>www.syst.info</a> - Insa Sparrer und Matthias Varga von Kibéd, Institut, Ausbildung&nbsp;und Forschung<br>
+<p class='text-p'><a target='_blank' href='http://www.syst.info/'>www.syst.info</a> - Insa Sparrer und Matthias Varga von Kib&eacute;d, Institut, Ausbildung&nbsp;und Forschung<br>
 <a target='_blank' href='http://www.meihei.de/'>www.meihei.de</a> - Milton-Erickson Institut Heidelberg<br>
 <a href='http://www.systconnect.net/' target='_blank'>www.systconnect.net</a> - Vernetzung Strukturaufstellungen nach SySt<br>
 <a target='_blank' href='http://www.kurszentrum.ch/'>www.kurszentrum.ch</a> - ZiS Zentrum f&uuml;r interdisziplin&auml;re Systemtherapie, Werner Herren<br>

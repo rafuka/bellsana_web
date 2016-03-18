@@ -18,7 +18,7 @@
   $text1 = "<h2>Was ist mein Anliegen?</h2>
         <p class='text-p'>Mein prim&auml;res Anliegen ist es, Ihnen zu einem dauerhaften schmerzfreien Zustand zu verhelfen.</p>
         <h3 class='text-p'>Wer sind meine Patienten?</h3>
-        <p class='text-p'>Meine Patienten kommen mit akuten, chronischen und sogar therapieresistenten Schmerzen am Bewegungsapparat. So leiden sie beispielsweise unter R&uuml;cken-, Kopf-, Nacken-, Schulter-, Ellenbogenschmerzen, Knie- und Fußschmerzen oder Arthrose verschiedener Gelenke.</p>
+        <p class='text-p'>Meine Patienten kommen mit akuten, chronischen und sogar therapieresistenten Schmerzen am Bewegungsapparat. So leiden sie beispielsweise unter R&uuml;cken-, Kopf-, Nacken-, Schulter-, Ellenbogenschmerzen, Knie- und Fusschmerzen oder Arthrose verschiedener Gelenke.</p>
         <h3 class='text-p'>Wie kann Schmerzfreiheit erreicht werden?</h3>
         <p class='text-p'>Eine wichtige Rolle nimmt dabei die  Osteopathie  ein. Sie versteht und behandelt den Menschen in seiner Gesamtheit. Unz&auml;hlige Strukturen wie Knochen, Muskeln und Faszien* h&auml;ngen direkt oder indirekt zusammen. Vor allem die Faszien, aber auch die Knochen brauchen freie Beweglichkeit und Elastizit&auml;t. Schmerz entsteht dort, wo diese Flexibilit&auml;t verloren gegangen ist und Blockaden entstanden sind. Ich l&ouml;se diese Blockaden und Fehlspannungen mit verschiedenen Mobilisationstechniken aus der Osteopathie und der Myofaszialen Schmerztherapie mit fein justierten Bewegungen, bis diese Strukturen harmonisiert und ein Gleichgewicht wieder hergestellt ist.</p>
         <p class='text-p'>Dar&uuml;ber hinaus bin ich spezialisiert in der Ganzheitlichen  LNB Schmerztherapie  nach Liebscher und Bracht. Diese Behandlungsmethode basiert auf drei wichtigen S&auml;ulen und ist damit f&uuml;r mich ein sehr wertvolles und nachhaltiges therapeutisches Instrument.</p>
@@ -73,4 +73,17 @@
         <h3 class='text-p'>Meine Arbeitssprachen</h3>
         <p class='text-p'>Deutsch, Spanisch, Englisch</p>
     ";
+
+    $quotes = array();
+    $quotes[] = "<blockquote>Nach wochenlangen R&uuml;ckenschmerzen suchte ich einen LNB-Schmerzthapeuten auf. Ich war skeptisch, da ich in der Vergangenheit mit andern Therapien nur geringen Erfolg hatte. Nach nur einer Therapie waren die Schmerzen fast weg und ich konnte mich wieder frei bewegen. Ich bin Paul H&ouml;rter und Herrn Liebscher (Erfinder LnB-Schmerztherapie) unendlich dankbar. Paul H&ouml;rter ist ein engagierter, kompetenter Therapeut mit umfassender Ausbildung den ich w&auml;rmstens empfehlen kann.</blockquote><br/>- D. Brauchli";
+    $quotes[] = "<blockquote>Vor allem meine Knie, aber auch andere K&ouml;rperteile schmerzten! Seit acht Jahren war ich nicht ohne ein bis zwei starke Schmerztabletten im Tag ausgekommen, und mein Bauch rebellierte - es musste etwas geschehen! Trotz der Einnahme der Medikamente war ich alles andere als schmerzfrei.<br/><br/>
+Durch einen Vortrag wurde ich auf die Schmerztherapie nach Liebscher und Bracht aufmerksam. Ich klammerte mich sozusagen an diesen letzten Strohhalm, ohne mir allzu viel davon zu versprechen.<br/><br/>
+
+Bereits nach der ersten Sitzung bei Herrn H&ouml;rter konnte ich um Vieles besser &uuml;ber die Treppen gehen, auch wieder weiter laufen. Jetzt galt es, die genau gezeigten &uuml;bungen zuhause fleissig anzuwenden. Es folgten vier weitere Therapiestunden, welche dazu f&uuml;hrten, dass ich mich wie neue geboren f&uuml;hlte. Nach und nach kam ich mit immer weniger Medikamenten aus, bis ich sie ganz weglassen konnte. Etwas Restschmerzen blieben, aber weit weniger als fr&uuml;her mit Medikamenten.<br/><br/>
+
+Leider konnte ich mich erst etwas sp&auml;t dazu durchringen, auch Motion-Kurse bei Herrn H&ouml;rter zu besuchen. Sie tragen viel zu meinem allgemeinen Wohlbefinden bei, helfen mir, den erreichten Zustand zu erhalten.<br/><br/>
+
+Durch seine ganzheitliche Betrachtung des Patienten, half mir Herr H&ouml;rter mit seiner Beratung, auch meinen &uuml;brigen physischen Zustand zu verbessern.<br/>
+
+Erstmals habe ich das Gef&uuml;hl, st&auml;rker zu sein als meine Schmerzen, wenn sie denn wieder heftiger auftreten. Ich kann das Turnen intensivieren oder in die Therapie gehen - ich f&uuml;hle mich ihnen nicht mehr hilflos ausgeliefert.</blockquote> <br/>- E. St&uuml;ssi"
  ?>

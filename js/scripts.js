@@ -1,5 +1,7 @@
 $(document).ready(function() {
-
+  $(window).load(function(){
+    $('.fader').delay(200).css('opacity', 1);
+  });
 
   var ic_width = $('.info-circle').width();
   $('.info-circle').css({'height':ic_width+'px'});
@@ -63,8 +65,4 @@ $(document).ready(function() {
 
   });
 
-});
-
-$(window).load(function(){
-  $('.fader').delay(200).css('opacity', 1);
 });

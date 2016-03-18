@@ -15,7 +15,7 @@
 
 
 
-  $text1 = "<h2 class='text-p'>COACHING f&uuml;r's LEBEN; vom Anliegen hin zur L&ouml;sung!</h2>
+  $text1 = "<h2 class='text-p'>Coaching f&uuml;r's Leben; vom Anliegen hin zur L&ouml;sung!</h2>
     <ul class='text-p'>
       <li>Krisen, Burn out, Trauma und Belastungssituationen.</li>
       <li>Belastenden Emotionen wie Reue, Trauer, Wut.</li>
@@ -26,7 +26,7 @@
       <li>Vor - und/oder Nachbehandlung von medizinischen Eingriffen.</li>
     </ul>
 
-    <h3 class='text-p'>MEINE ST&Auml;RKEN LIEGEN IM GANZHEITLICHEN AUSBILDUNGS - UND ERFAHRUNGSHINTERGRUND</h3>
+    <h3 class='text-p'>Meine St&auml;rken Liegen Im Ganzheitlichen Ausbildungs - Und Erfahrungshintergrund</h3>
 
     <ul class='text-p'>
       <li>Medizin-, Naturheilkunde - und Hom&ouml;opathie-Studium.</li>
@@ -89,7 +89,10 @@
       <p class='text-p'>Deutsch, Englisch, Italienisch</p>
     ";
 
-    $quotes[0] = "<p class='text-p'>\"Blah blah blahblha, blha blha! Blah blah blah?\"</p> <p class='text-p'>- Vladimir Villegas</p>";
-    $quotes[1] = "<p class='text-p'>\"Bfsdgjhsflkjghakl jdfhgl kagksfjdfsjga fjkg ksjdfhg fkjgaddf  sdfjghs kjd sjdhfglkj\"</p> <p class='text-p'>- Jacinto Elmio</p>";
-    $quotes[2] = "<p class='text-p'>\"Lorem sklg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg hsdkfhg sdjhg sdhg kjdhsgk hdskg sdh sdhg sdh\"</p> <p class='text-p'>- Yada Yadain</p>";
+    $quotes = array();
+    $quotes[] = "<blockquote>Blah blah blahblha, blha blha! Blah blah blah?</blockquote> <br/>- Vladimir Villegas";
+    $quotes[] = "<blockquote>Bfsdgjhsflkjghakl jdfhgl kagksfjdfsjga fjkg ksjdfhg fkjgaddf  sdfjghs kjd sjdhfglkj</blockquote> <br/>- Jacinto Elmio";
+    $quotes[] = "<blockquote>Lorem sklg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg hsdkfhg sdjhg sdhg kjdhsgk hdskg sdh sdhg sdh</blockquote> <br/>- Yada Yadain";
+    $quotes[] = "<blockquote>Lorem sklg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg hsdkfhg sdjhg sdhg kjdhsgk hdskg sdh sdhg sdh</blockquote> <br/>- Yada Yadain";
+
  ?>
