@@ -51,7 +51,7 @@ header {
   height: 88px;
   box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
   background-color: white;
-  z-index: 999;
+  z-index: 99999999;
 }
 
 header + div {
@@ -94,7 +94,7 @@ ul {
   background-color: #ea4c1d;
 }
 
-.nav-collapse ul {
+.nav-mobile ul {
   display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox;      /* TWEENER - IE 10 */
@@ -108,38 +108,58 @@ ul {
   justify-content: flex-end;
 }
 
-.menu-btn {
+.burgerbtn {
   display: none;
 }
 
+.logo-wrap, .main-nav-wrap, .lang-list-wrap, .menu-wrap {
+  display: inline-block;
+  height: 88px;
+  vertical-align : top;
+}
+
+.menu-wrap {
+  float: right;
+  margin-right: 50px;
+}
+
+a.main-link {
+  padding: 32px 40px;
+}
+
+
 @media (max-width: 991px) {
-  .nav-collapse {
+  .nav-mobile {
     display: none;
     margin-top: 88px!important;
     position: absolute;
+    left: 0;
     width: 100%!important;
-    height: inherit;
-    margin-left: -15px!important;
+    height: calc(100vh - 88px);
     background-color: rgba(255,255,255,0.95);
     transition: all 0s ease-in-out;
-
+    overflow-y: scroll;
+    -webkit-overflow-scrolling:touch;
   }
 
-  .nav-collapse ul {
+  .nav-mobile ul {
     display: block;
   }
 
-  .menu-btn {
+  .burgerbtn {
     display: block;
     height: 40px;
     border: none;
-    color: white;
     padding-top: 5px;
     float: right;
     background-color: white;
-    color: #eae300;
+    color: #EA4C1D;
     margin: 25px 10px;
     font-size: 1.5em;
+  }
+
+  .burgerbtn.pressed {
+    color: #EAE300;
   }
 
   nav .sub-menu {
@@ -168,6 +188,38 @@ ul {
     width: 100%!important;
   }
 
+  .footer-wrap h3 {
+    text-align: center;
+  }
+
+  .footer-wrap ul {
+    text-align: center;
+  }
+
+  .main-nav-wrap {
+    float: right;
+    margin-left: 10px;
+  }
+
+  .menu-wrap {
+    margin-right: 15px;
+  }
+
+
+}
+
+@media (max-width: 400px) {
+  .logo-wrap {
+    width: 35%;
+  }
+
+  #logo {
+    width: 100%;
+  }
+
+  .menu-wrap {
+    margin-right: 0px;
+  }
 }
 
 .nav-bar ul li {
@@ -205,12 +257,12 @@ nav ul li a {
   display: block;
   padding: 32px 0px;
   color: #ea4c1d;
-  transition: all .15s ease-in-out;
+  transition: all .10s ease-in-out;
 }
 
 nav ul li a:hover {
   text-decoration: none;
-  color: #eae300;
+  color: #8C2D11;
 }
 
 @media (min-width: 992px) {
@@ -243,7 +295,7 @@ nav ul li a:hover {
   padding: 10px 20px;
 }
 
-.nav-collapse > ul > li:hover > .sub-menu {
+.nav-mobile > ul > li:hover > .sub-menu {
   display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox;      /* TWEENER - IE 10 */
@@ -254,8 +306,8 @@ nav ul li a:hover {
   border-radius: 0px 0px 10px 10px;
 }
 
-.nav-collapse > ul > li:hover > a {
-  color: #eae300;
+.nav-mobile > ul > li:hover > a {
+  color: #8C2D11;
 }
 
 .dummy-anchor {
@@ -275,12 +327,19 @@ nav ul li a:hover {
   margin: 0px;
   background-color: white;
 }
+
 .land-img {
   margin: auto;
   width: auto;
   height: 500px;
   max-width: 1500px;
+}
 
+@media (max-width: 991px) {
+  .land-img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .banner {
@@ -384,13 +443,13 @@ a:hover img.info-img, a:hover img.team-img {
 }
 
 .footer-wrap {
-  background-color: #ddd;
+  background-color: #38383C;
   padding: 50px;
-	background: #ddd; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#eee, #eee, #ddd); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#eee, #eee, #ddd); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#eee, #eee, #ddd); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#eee, #eee, #ddd); /* Standard syntax */
+  box-shadow: 0px -2px 10px rgba(0,0,0,0.1);
+  z-index: 99999;
+  position: relative;
+  border-top: 1px solid rgba(0,0,0,0.1);
+	color: #999;
 }
 
 #contact-info {
@@ -597,11 +656,7 @@ p.member-info {
 }
 
 /* ----- FOOTER ----- */
-.footer-wrap {
 
-  background-color: #eee;
-  color: #999;
-}
 
 .footer-wrap a {
   color: #999;
@@ -612,13 +667,12 @@ p.member-info {
   margin: 0 auto;
   min-width: 150px;
   width: inherit;
-
+  color: #777;
 }
 
 .footer-wrap ul {
   margin: 20px auto;
   padding: 0;
-  text-align: left;
   width: inherit;
   min-width: 150px;
   text-transform: capitalize;
@@ -632,6 +686,10 @@ p.member-info {
   text-align: center;
   font-size: .8em;
 }
+
+.footer-wrap a:hover {
+    color: #777;
+  }
 
 #pdf-icon {
 	width: 60px;
@@ -678,7 +736,7 @@ ol.text-p {
   vertical-align: top;
   margin-left: 4px;
   transition: all .15s ease-in-out;
-
+  display: inline;
 }
 
 .flexslider {
@@ -734,7 +792,7 @@ ol.text-p {
   height: 100%;
   overflow: scroll;
   background-color: rgba(0,0,0,0.8);
-  z-index: 999;
+  z-index: 999999999;
 }
 
 #popup .popup-container {
@@ -798,7 +856,14 @@ blockquote::after {
   cursor: pointer;
 }
 
-.extra-
+.no-scroll {
+  overflow: hidden;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
 .testcol {
   background-color: red;
   opacity: 0.5;

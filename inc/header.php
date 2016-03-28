@@ -56,13 +56,14 @@
 <body>
 	<header class="container-fluid">
 		<div class="row">
-			<div class="col-md-4">
-				<img id="logo" src="img/logo.png" alt="Logo">
+			<div class="logo-wrap">
+				<a href="/"><img id="logo" src="img/logo.png" alt="Logo"></a>
 			</div>
-			<div class="col-md-6">
+			<div class="menu-wrap">
+			<div class="main-nav-wrap">
 				<nav class="main-nav">
-					<button class="menu-btn"><i class="fa fa-bars"></i></button>
-					<div class="nav-collapse">
+					<button class="burgerbtn"><i class="fa fa-bars"></i></button>
+					<div class="nav-mobile">
 						<ul>
 				      <li><a class="main-link" href="index.php"><?php echo $lang['nav-home'] ?></a></li>
 				      <li>
@@ -79,17 +80,30 @@
 					    <li><a class="main-link" href="index.php#team-section"><?php echo $lang['nav-team'] ?></a></li>
 					    <li><a class="main-link" href="index.php#contact-section"><?php echo $lang['nav-contact'] ?></a></li>
 					  </ul>
+
 					</div>
+
 				</nav>
 			</div>
-			<div class="col-xs-3 col-md-2">
+			<div style="display:none;" class="lang-list-wrap">
+			<!--	<button class="lang-btn">
+					<?php
+						switch($_SESSION['lang']) {
+							case 'de':
+								echo '<span class="flag-icon flag-icon-de">';
+								break;
+
+						}
+					?>
+				</button>-->
 				<ul id="lang-list">
 					<li><a href="index.php?lang=de">De</a></li>
 					<li><a href="index.php?lang=it">It</a></li>
 					<li><a href="index.php?lang=en">En</a></li>
 				</ul>
 			</div>
-		</div>
 
+			</div><!-- menu-wrap -->
+		</div>
 	</header>
 	<div class="fader">

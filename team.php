@@ -71,6 +71,7 @@
           <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle'?>"><span class="flag-icon flag-icon-de"></span>Deutsch</a></li>
           <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=es'?>"><span class="flag-icon flag-icon-es"></span>Spanisch</a></li>
           <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=fr'?>"><span class="flag-icon flag-icon-fr"></span>Franz&ouml;sisch</a></li>
+          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=it'?>"><span class="flag-icon flag-icon-it"></span>Italienisch</a></li>
         </ul>
 
       <?php endif; ?>
@@ -93,6 +94,10 @@
               echo $text1_fr;
               break;
 
+            case "it":
+              echo $text1_it;
+              break;
+
             default:
               echo $text1;
               break;
@@ -103,12 +108,12 @@
         }
       ?>
     </div>
-    <div class="col-md-6">
+    <div class="hidden-xs hidden-sm col-md-6">
       <img class="team-img-fixed" src="<?php echo $img2 ?>" alt="<?php echo $img2_alt; ?>"/>
     </div>
   </div>
   <div class="row">
-    <div class="col-md-6">
+    <div class="hidden-xs hidden-sm col-md-6">
       <img class="team-img-fixed" src="<?php echo $img3 ?>" alt="<?php echo $img3_alt; ?>"/>
     </div>
     <div class="col-md-6 img-fixed">
@@ -121,6 +126,10 @@
 
             case "fr":
               echo $text2_fr;
+              break;
+
+            case "it":
+              echo $text2_it;
               break;
 
             default:
@@ -136,6 +145,28 @@
   </div><!-- end row -->
 </div><!--/ container -->
 
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
 
+    $('#open-popup').click(function() {
+      toggle_visibility('popup');
+      $('body').removeClass('scroll');
+      $('body').addClass('no-scroll');
+
+    });
+
+    $('#close').click(function() {
+      toggle_visibility('popup');
+      $('body').removeClass('no-scroll');
+      $('body').addClass('scroll');
+
+    });
+</script>
 
 <?php require("inc/footer.php"); ?>

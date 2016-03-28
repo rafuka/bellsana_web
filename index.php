@@ -71,9 +71,9 @@
 				<div class="col-sm-6 col-md-4 team-box">
 					<img class="team-img" src="img/t2.jpg" alt="team member"/>
 					<h3>Richard Casanova</h3>
-					<p>Fussreflexzonenmassage<br/>
-							Hypnose<br/>
-							Coaching
+					<p>Coaching<br/>
+						 Fussreflexzonenmassage<br/>
+					   Hypnose
 					</p>
 				</div>
 			</a>
@@ -98,9 +98,9 @@
 				<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-0 team-box">
 				  <img class="team-img" src="img/t5.jpg" alt="team member"/>
 					<h3>Paul H&ouml;rter</h3>
-					<p>Osteopathie<br/>
-						Physiotherapie<br/>
-						LNB Schmerztherapie
+					<p>LNB Schmerztherapie<br/>
+						Osteopathie<br/>
+						Physiotherapie
 					</p>
 				</div>
 			</a>
@@ -118,7 +118,7 @@
 	<div class="container-fluid contact-wrap">
 		<div id="contact-info">
 			<p>
-				bellsana Gesundheitzentrum
+				bellsana Gesundheitzentrum &reg;
 			</p>
 			<ul>
 				<li>Bleicherweg 54</li>

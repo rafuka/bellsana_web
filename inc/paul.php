@@ -8,9 +8,10 @@
   $img3_alt = "Paul's photograph 3";
 
   $name = "Paul H&ouml;rter";
-  $info = "Osteopathie<br/>
+  $info = " LNB Schmerztherapie<br/>
+            Osteopathie<br/>
             Physiotherapie<br/>
-            LNB Schmerztherapie<br/>
+
             <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
             <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;hoerter@bellsana.ch";
 

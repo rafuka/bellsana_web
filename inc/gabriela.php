@@ -72,7 +72,7 @@
         Kantonale Approbation der Kantone GR, SG.<br>
         A-Mitglied HVS.<br>
         A-Mitglied NVS.<br>
-        <strong>Hausbesuche</strong> nach Absprache m&ouml;glich.
+        Hausbesuche nach Absprache m&ouml;glich.
       </p>
 
       <h3 class='text-p'>AUS - UND WEITERBILDUNG IN</h3>
@@ -90,9 +90,5 @@
     ";
 
     $quotes = array();
-    $quotes[] = "<blockquote>Blah blah blahblha, blha blha! Blah blah blah?</blockquote> <br/>- Vladimir Villegas";
-    $quotes[] = "<blockquote>Bfsdgjhsflkjghakl jdfhgl kagksfjdfsjga fjkg ksjdfhg fkjgaddf  sdfjghs kjd sjdhfglkj</blockquote> <br/>- Jacinto Elmio";
-    $quotes[] = "<blockquote>Lorem sklg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg hsdkfhg sdjhg sdhg kjdhsgk hdskg sdh sdhg sdh</blockquote> <br/>- Yada Yadain";
-    $quotes[] = "<blockquote>Lorem sklg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg klg lskdjglkjsdfhg sghsd ghsfdhgsdfh sdhg sdhfg jdhsg hsdkfhg sdjhg sdhg kjdhsgk hdskg sdh sdhg sdh</blockquote> <br/>- Yada Yadain";
 
  ?>

@@ -120,7 +120,7 @@
         <p class='text-p'>Prix par s&eacute;ance: CHF 144.-</p>
       ";
 
-      $text2_fr = "<h2 class='text-p'></h2>
+      $text2_fr = "<h2 class='text-p'>Quantum Pulse</h2>
         <p class='text-p'>Tout en vous est &eacute;nergie. Quand cette &eacute;nergie circule, vous &ecirc;tes plus vigoureux, &eacute;quilibr&eacute; et productif. Atteignez votre potentiel naturel et sentez votre corps au moyen d’une technologie &eacute;prouv&eacute;e : The QuantumPulse, fond&eacute;e sur une invention g&eacute;niale de l’ing&eacute;nieur Gene Koonce. Son inspiration r&eacute;side dans des th&eacute;ories et technologies de scientifiques de renomm&eacute;e universelle, tels que Nikola Tesla, Georges Lakhovsky et Royal Raymond Rife.</p>
         <p class='text-p'>Le traitement a un effet &eacute;quilibrant sur vos &eacute;motions, votre esprit et votre corps. The QuantumPulse machine est utilis&eacute;e &agrave; titre de luminoth&eacute;rapie anodine stimulant l’activit&eacute; cellulaire naturelle. Cette forme de th&eacute;rapie g&eacute;n&egrave;re et promeut ce qu’il faut &agrave; votre corps et contribue &agrave; une bonne sant&eacute;.</p>
         <p class='text-p'>Je vous conseille volontiers lors d’un entretien personnel.</p>
@@ -133,6 +133,39 @@
         <p class='text-p'>Une s&eacute;ance avec The QuantumPulse machine: CHF 77.-</p>
 
       ";
+
+      $text1_it = "<h2 class='text-p'> EMF Balancing Technique</h2>
+          <p class='text-p'>L’essenziale &egrave; acquisire una consapevolezza per attivare le nostre energie. Comparabile ad una Spa spirituale l’EMF Balancing Technique risveglia uno stato di benessere ed ha un effetto molto ricostituente in qualsiasi ambito vitale.</p>
+          <p class='text-p'>Nel quotidiano a volte non sapiamo come agire con i nostri sentimenti e le nostre energie. EMF Balancing Technique aiuta esattamente a far chiarezza di queste situazioni e a far migliorare la relazione con il tuo corpo. Con questo si rigenera il campo elettromagnetico del tuo corpo e la relazione con te stessa/o si rinforza.</p>
+          <p class='text-p'>In tutto ci sono 12 fasi che possono essere provate singolarmente o in combinazione.</p>
+          <p class='text-p'>Per via della mia base multiculturale ho la possibilit&agrave; di assisterti in diverse lingue (Tedesco, Inglese, Francese, Italiano e Spagnolo).</p>
+          <p class='text-p'>Ti consiglio volentieri in una conversazione personale.</p>
+          <p class='text-p'>Costo per seduta: CHF 144.-</p>
+
+          <h2 class='text-p'>Le Onde</h2>
+          <p class='text-p'>L’arte della trasformazione consapevole.</p>
+          <p class='text-p'>Un unica fusione di luce e suono, creata dalla percettibilit&agrave; quantica di Peggy Phoenix Dubro e dal straordinario Pineal Tonings del Dr. Todd Ovokaitys. L’applicazione delle Onde oltre ad essere uno spasso, &egrave; interessante e profonda. Secondo il bisogno se po scegliere tra 36 Onde. E possibile combinare 4 o 5 Onde per seduta.</p>
+          <p class='text-p'>Ti consiglio volentieri in una conversazione personale.</p>
+          <p class='text-p'>Costo per seduta: CHF 144.-</p>
+
+      ";
+
+      $text2_it = "<h2 class='text-p'>Quantum Pulse</h2>
+            <p class='text-p'>Tu sei energia. Quando la tua energia scorre, ti senti pi&ugrave; vitale, pi&ugrave; equilibrata/o e pi&ugrave; produttiva/o. Raggiungi il tuo potenziale naturale e percepisci il tuo corpo con una tecnologia provata: The QuantumPulse Machine, basata sul’invenzione geniale del ingegnere Gene Koonce. Le sue ispirazioni sono basate sulle teorie e le tecnologie dei famosi scienziati mondiali Nikola Tesla,Georges Lakhovsky e Royal Raymond Rife.</p>
+            <p class='text-p'>Il trattamento ha un effetto calmante per le tue emozioni, per la tua mente e corpo.</p>
+            <p class='text-p'>The QuantumPulse viene usata come terapia della luce innocua che stimola la tua naturale attivit&agrave; cellulare. Questa terapia da al tuo corpo quello di cui necessita. Quindi si attiva la tua salute in tutto il corpo!</p>
+            <p class='text-p'>Ti consiglio volentieri in una seduta personale.</p>
+            <p class='text-p'>Nei casi seguenti &egrave; sconsigliato il trattamento con The QuantumPulse:</p>
+            <ul class='text-p'>
+              <li>Gravidanza</li>
+              <li>Bambini</li>
+              <li>Pacemaker</li>
+            </ul>
+            <p class='text-p'>Una seduta con The QuantumPulseMachine: CHF 77.-</p>
+            <p class='text-p'>Questo trattamento non sostituisce nessuna visita medica e non emetto diagnosi.</p>
+
+      ";
+
 
       $quotes = array();
       $quotes[] = "<blockquote>Meine Erfahrung mit der QuantumPulseMachine:

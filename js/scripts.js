@@ -28,17 +28,23 @@ $(document).ready(function() {
     trigger: 'hover'
   });
 
-  $(".menu-btn").click(function(){
-    var nav = $(".nav-collapse");
-    if (nav.hasClass("display")) {
-      nav.removeClass("display");
+  $(".burgerbtn").click(function(){
+    var nav = $(".nav-mobile");
 
+    nav.toggle(500);
+    if ($('body').hasClass('no-scroll')) {
+      $('body').removeClass('no-scroll');
     }
     else {
-      nav.addClass("display");
-
+      $('body').addClass('no-scroll');
     }
-    nav.toggle(500);
+
+    if ($('.burgerbtn').hasClass('pressed')) {
+      $('.burgerbtn').removeClass('pressed');
+    }
+    else {
+      $('.burgerbtn').addClass('pressed');
+    }
   });
 
   if ($(window).scrollTop() < 300) {

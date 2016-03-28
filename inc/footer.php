@@ -2,12 +2,12 @@
 <div class="footer-wrap">
   <div class="container">
       <div class="row">
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-12 col-sm-4">
         <h3><?php echo $lang['footer-menu-title-1']; ?></h3>
         <ul>
           <li><a href="index.php"><?php echo $lang['footer-menu-1']; ?></a></li>
           <li><a href="philosophy.php"><?php echo $lang['footer-menu-2']; ?></a></li>
-          <li><a href="index.php#teambanner"><?php echo $lang['footer-menu-3']; ?></a></li>
+          <li><a href="index.php#team-section"><?php echo $lang['footer-menu-3']; ?></a></li>
           <li><a href="services.php"><?php echo $lang['footer-menu-4']; ?></a></li>
           <li><a href="#"><?php echo $lang['footer-menu-5']; ?></a></li>
         </ul>
@@ -20,7 +20,7 @@
           <li>info@bellsana.ch</li>
         </ul>
       </div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-12 col-sm-4">
         <h3><?php echo $lang['footer-menu-title-3']; ?></h3>
         <ul>
           <li>bleicherweg 54</li>
@@ -35,23 +35,7 @@
   </div><!-- /container -->
 </div><!-- /footer-wrap -->
 </div><!-- /fader -->
-<script type="text/javascript">
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
 
-    $('#open-popup').click(function() {
-      toggle_visibility('popup');
-    });
-
-    $('#close').click(function() {
-      toggle_visibility('popup');
-    });
-</script>
 <script>
 	  function initialize() {
 
@@ -70,8 +54,8 @@
         scrollwheel: false,
 	      center: centerLatLng,
 	      zoom: 16,
-	      mapTypeId: google.maps.MapTypeId.ROADMAP
-
+	      mapTypeId: google.maps.MapTypeId.ROADMAP,
+        draggable: !("ontouchend" in document)
 	    }
 
 	    var map = new google.maps.Map(mapCanvas, mapOptions);
