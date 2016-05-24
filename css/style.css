@@ -864,6 +864,11 @@ blockquote::after {
   overflow: scroll;
 }
 
+.reg {
+  font-size: .6em;
+  vertical-align: super;
+}
+
 .testcol {
   background-color: red;
   opacity: 0.5;

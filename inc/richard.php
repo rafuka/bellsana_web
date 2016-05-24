@@ -8,13 +8,16 @@
   $img3_alt = "Richard's photograph 3";
 
   $name = "Richard Casanova";
-  $info = "Coaching<br/>
+  $info = "
+            Coaching<br/>
             Fussreflexzonenmassage<br/>
             Hypnose<br/>
 
 
             <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
-            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;casanova@bellsana.ch";
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;casanova@bellsana.ch<br/>
+            <a target='_blank' href='http://richardcasanova.ch'>http://richardcasanova.ch</a><br/>
+            ";
 
 
 
@@ -55,6 +58,7 @@
       <li>Suchtproblemen</li>
       <li>Schockzust&auml;nden</li>
     </ul>
+    <p style='height:400px;width:100%;'></p>
 
 
 

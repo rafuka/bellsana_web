@@ -1,4 +1,6 @@
-<?php require("inc/header.php"); ?>
+<?php
+$title = "Aktuell | bellsana";
+require("inc/header.php"); ?>
 
 
 

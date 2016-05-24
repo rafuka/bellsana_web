@@ -8,12 +8,14 @@
   $img3_alt = "Paul's photograph 3";
 
   $name = "Paul H&ouml;rter";
-  $info = " LNB Schmerztherapie<br/>
+  $info = "
+            LNB Schmerztherapie<br/>
             Osteopathie<br/>
             Physiotherapie<br/>
 
             <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
-            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;hoerter@bellsana.ch";
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;hoerter@bellsana.ch<br/>
+            <a target='_blank' href='http://lnb-schmerztherapie-zuerich.ch'>http://lnb-schmerztherapie-zuerich.ch</a><br/>";
 
 
   $text1 = "<h2>Was ist mein Anliegen?</h2>

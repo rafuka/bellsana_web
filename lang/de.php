@@ -6,10 +6,6 @@
 	/* ----- <head> ----- */
 	$lang['language'] = "de";
 	$lang['lang-attr'] = "lang=de";
-	$lang['index-title'] = "bellsana Gesundheit Zentrum";
-	$lang['phil-title'] = "bellsana | Philosophy";
-	$lang['treat-title'] = "bellsana | Angebot";
-	$lang['work-title'] = "bellsana | Wir Suchen";
 	/* --- end <head> --- */
 
 	/* ----- nav menu ----- */
@@ -26,10 +22,10 @@
 	/* ----- end nav menu -- */
 
 	/* ----- home site ----- */
-	$lang['banner-1'] = '<p>"Das bellsana Gesundheitszentrum &reg; ist eine Praxisgemeinschaft an zentraler Lage "</p>';
+	$lang['banner-1'] = '<p>"Das bellsana Gesundheitszentrum<span class="reg">&reg;</span> ist eine Praxisgemeinschaft an zentraler Lage "</p>';
 
 	$lang['phil-header'] = "Unsere Philosophie";
-  $lang['phil-info'] = "S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen- oder psychischen Trauma sowie in Lebenskrisen.";
+  $lang['phil-info'] = "S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen oder psychischen Trauma sowie in Lebenskrisen.";
 
 	$lang['work-header'] = "Mit uns arbeiten";
 	$lang['work-info'] = "Wir suchen eine Kollegin oder
@@ -41,7 +37,7 @@
 	$lang['treat-info'] = "F&uuml;r Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.";
 
 	$lang['sem-header'] = "Seminare";
-	$lang['sem-info'] = "";
+	$lang['sem-info'] = "Einzelne Teammitglieder veranstalten Seminare und Schulungen zu ihren Fachgebeiten. Aktuelle Seminare finden Sie hier und auf den Websites der einzelnen Teammitglieder.";
 
 
 
@@ -50,13 +46,13 @@
 	/* ----- end home site ----- */
 
 	/* ----- philosophy site ----- */
-	$lang['philosophy-text'] = "<p class='text-p'>Das bellsana Gesundheitszentrum &reg; ist eine Praxisgemeinschaft an zentraler Lage (ohne solidarische Haftung untereinander sowie gegen&uuml;ber Drittpersonen).</p>
+	$lang['philosophy-text'] = "<p class='text-p'>Das bellsana Gesundheitszentrum<span class='reg'>&reg;</span> ist eine Praxisgemeinschaft an zentraler Lage (ohne solidarische Haftung untereinander sowie gegen&uuml;ber Drittpersonen).</p>
 <p class='text-p'>F&uuml;r Ihre Gesundheit unterbreiten wir Ihnen in harmonischen R&auml;umen ein vielf&auml;ltiges Angebot an Beratung und Therapie. Dieses beinhaltet manuelle Therapie, Osteopathie, Massage, Energetisch-Statische-Behandlung, Akupunktur-Massage, klassische Hom&ouml;opathie, traditionelle Pflanzenheilkunde (Phytotherapie) sowie Naturheilkunde, EMDR-Therapie, Strukturaufstellungen nach Syst sowie verschiedene Methoden der Psychotherapie.</p>
-<p class='text-p'>S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen- oder psychischen Trauma sowie in Lebenskrisen.</p>
+<p class='text-p'>S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen oder psychischen Trauma sowie in Lebenskrisen.</p>
 <p class='text-p'>Lesen Sie dazu auch die erg&auml;nzenden Informationen der einzelnen Methoden.</p>
-<p class='text-p'>Mit dem Ziel, die Selbstheilungskr&auml;fte und die Lebensqualit&auml;t jedes Klienten zu optimieren, arbeiten wir mit &auml;rzten aller Fachrichtungen, Instituten und Labors zusammen. Ausserdem pflegen wir die ganzheitliche Zusammenarbeit innerhalb unseres Teams am Bleicherweg.</p>
+<p class='text-p'>Mit dem Ziel, die Selbstheilungskr&auml;fte und die Lebensqualit&auml;t jedes Klienten zu optimieren, arbeiten wir mit &Auml;rzten aller Fachrichtungen, Instituten und Labors zusammen. Ausserdem pflegen wir die ganzheitliche Zusammenarbeit innerhalb unseres Teams am Bleicherweg.</p>
 <p class='text-p'>Nach M&ouml;glichkeit stehen w&auml;hrend der Behandlung ein Notfalldienst sowie Hausbesuche zu Ihrer Verf&uuml;gung!</p>
-<p class='text-p'>Rufen Sie uns an, wir beraten Sie gerne auch am Telefon in den Sprachen Deutsch, Englisch, Franz&ouml;sisch und Italienisch.</p>
+<p class='text-p'>Rufen Sie uns an, wir beraten Sie gerne auch am Telefon in den Sprachen Deutsch, Englisch, Franz&ouml;sisch, Spanisch und Italienisch.</p>
 ";
 
 	$lang['philosophy-banner'] = "Philosophie";
@@ -69,7 +65,7 @@
 	/* ----- services site ----- */
 	$lang['card-back'] = "Mit";
 
-	$lang['services-banner'] = "Behandlugen";
+	$lang['services-banner'] = "Behandlungen";
 	$lang['serv-1-name'] = "Coaching f&uuml;r's Leben";
 	$lang['serv-2-name'] = "EMF Balancing Technique";
 	$lang['serv-3-name'] = "Fussreflexzonenmassage";
@@ -144,10 +140,22 @@ Frei zur Mitarbeit wird ab 2016 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. alle
 
 		<h3 class='text-p'>EMF Balancing Technique:</h3>
 
-<p class='text-p'>Gerne bilde ich Sie aus f&uuml;r diese wunderbare Arbeit in Ihrer Praxis anzuwenden. Ich gebe die Phasen 1- 8 auf deutsch/franz&ouml;sisch/spanisch/englisch und italienisch.
-Freu mich auf Sie!
-Herzlichst
-Sibylle</p>
+<p class='text-p'>EMF Balancing Technique:
+
+Gerne bilde ich Sie aus, damit Sie diese wunderbare Arbeit in Ihrer Praxis selbst anwenden k&ouml;nnen. Ich unterrichte die Phasen 1- 8 in Deutsch, Franz&ouml;sisch, Spanisch, Englisch und Italienisch.
+Ich freue mich auf Sie!
+Herzlichst, Sibylle</p>
+		
+
+		<h3 class='text-p'>Buchvernissage \"Die andere Sicht\"</h3>
+		<p class='text-p'>8. September 2016, 18:00 Uhr in Z&uuml;rich</p>
+		<p class='text-p'>(Details folgen)</p>
+
+		<h3 class='text-p'>Seminar</h3>
+		<p class='text-p'>23. – 25. September 2016 in Bad V&ouml;slau (bei Wien)</p>
+		<p class='text-p'>Tagesseminar, Buchpr&auml;sentation und Behandlungen</p>
+		<p class='text-p'>(Details folgen)</p>
+
 		";
 
 	/* ----- end seminars site ----- */

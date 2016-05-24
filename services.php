@@ -1,4 +1,6 @@
-<?php require("inc/header.php"); ?>
+<?php
+$title = "Behandlungen | bellsana";
+require("inc/header.php"); ?>
 
 <div class="jumbotron img-slider">
   <img class="img-responsive land-img" src="img/services.jpg" alt="Bellsana's philosophy image banner"/>

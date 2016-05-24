@@ -1,4 +1,6 @@
-<?php require("inc/header.php"); ?>
+<?php
+$title = "Philosophie | bellsana";
+require("inc/header.php"); ?>
 
 
 

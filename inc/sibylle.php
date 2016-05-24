@@ -8,10 +8,13 @@
   $img3_alt = "Sibylle's photograph 3";
 
   $name = "Sibylle Seitzmeir";
-  $info = "EMF Balancing Technique<br/>
-            Quantum Pulse Machine<br/>
+  $info = "
+            EMF Balancing Technique<br/>
+            The QuantumPulse Machine<br/>
             <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
-            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;seitzmeir@bellsana.ch";
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;seitzmeir@bellsana.ch<br/>
+            <a target='_blank' href='http://living-in-balance.org'>http://living-in-balance.org</a><br/>
+            ";
 
 
 
@@ -41,7 +44,7 @@
     ";
 
     $text2 = "
-      <h2 class='text-p'>Die Quantum Pulse Machine</h2>
+      <h2 class='text-p'>The QuantumPulse Machine</h2>
 
       <p class='text-p'>Du bist Energie. Wenn Deine Energie fliesst, bist Du vitaler, ausbalancierter und produktiver. Erreiche Dein nat&uuml;rliches Potenzial und sp&uuml;re Deinen K&ouml;rper mit einer erprobten Technologie: The QuantumPulse Machine, basiert auf der genialen Erfindung von Ingenieur Gene Koonce. Seine Inspirationen beruhen auf Theorien und Technologien der weltbekannten Wissenschaftler Nikola Tesla, Georges Lakhovsky und Royal Raymond Rife.</p>
 
@@ -49,7 +52,7 @@
 
       <p class='text-p'>Gerne berate ich Dich in einem pers&ouml;nlichen Gespr&auml;ch.</p>
 
-      <p class='text-p'>In folgenden F&auml;llen ist eine Behandlung mit The QuantumPulse nicht empfohlen:</p>
+      <p class='text-p'>In folgenden F&auml;llen ist eine Behandlung mit The QuantumPulse Machine nicht empfohlen:</p>
 
       <ul class='text-p'>
         <li>Bei Schwangerschaft</li>
@@ -93,10 +96,10 @@
       ";
 
 
-    $text2_es = "<h2 class='text-p'>The Quantum Pulse</h2>
-      <p class='text-p'>Eres energ&iacute;a, cuando tu energ&iacute;a se libera eres m&aacute;s vital, armoniosa/o y productiva/o. Obt&eacute;n tu potencial natural y la percepci&oacute;n de tu propio cuerpo a trav&eacute;s de esta eficaz tecnolog&iacute;a: The QuantumPulse.</p>
+    $text2_es = "<h2 class='text-p'>The QuantumPulse Machine</h2>
+      <p class='text-p'>Eres energ&iacute;a, cuando tu energ&iacute;a se libera eres m&aacute;s vital, armoniosa/o y productiva/o. Obt&eacute;n tu potencial natural y la percepci&oacute;n de tu propio cuerpo a trav&eacute;s de esta eficaz tecnolog&iacute;a: The QuantumPulse Machine.</p>
       <p class='text-p'>Esta m&aacute;quina que est&aacute; creada a partir de la genial invenci&oacute;n del ingeniero Gene Koonce. Su inspiraci&oacute;n se basa en teor&iacute;as y tecnolog&iacute;as elaboradas por tres cient&iacute;ficos mundialmente famosos: Nikola Tesla, Georges Lakhovsky y Royal Raymond Rife.</p>
-      <p class='text-p'>Este tratamiento ejerce un efecto de estabilizaci&oacute;n directamente sobre tus emociones, tu esp&iacute;ritu y tu cuerpo. The QuantumPulse es utilizada como luz terap&eacute;utica innocua, la cual estimula tu actividad celular. Esta terapia activa todo aquello que tu organismo necesita. ¡De esta forma se estimula la salud en todo tu organismo!</p>
+      <p class='text-p'>Este tratamiento ejerce un efecto de estabilizaci&oacute;n directamente sobre tus emociones, tu esp&iacute;ritu y tu cuerpo. The QuantumPulse Machine es utilizada como luz terap&eacute;utica innocua, la cual estimula tu actividad celular. Esta terapia activa todo aquello que tu organismo necesita. ¡De esta forma se estimula la salud en todo tu organismo!</p>
       <p class='text-p'>Estar&eacute; encantada de asesorarte de forma personal durante una entrevista.</p>
       <p class='text-p'>Los tratmientos con la m&aacute;quina QuantumPulse no se recomiendan:</p>
       <ul class='text-p'>
@@ -120,9 +123,9 @@
         <p class='text-p'>Prix par s&eacute;ance: CHF 144.-</p>
       ";
 
-      $text2_fr = "<h2 class='text-p'>Quantum Pulse</h2>
-        <p class='text-p'>Tout en vous est &eacute;nergie. Quand cette &eacute;nergie circule, vous &ecirc;tes plus vigoureux, &eacute;quilibr&eacute; et productif. Atteignez votre potentiel naturel et sentez votre corps au moyen d’une technologie &eacute;prouv&eacute;e : The QuantumPulse, fond&eacute;e sur une invention g&eacute;niale de l’ing&eacute;nieur Gene Koonce. Son inspiration r&eacute;side dans des th&eacute;ories et technologies de scientifiques de renomm&eacute;e universelle, tels que Nikola Tesla, Georges Lakhovsky et Royal Raymond Rife.</p>
-        <p class='text-p'>Le traitement a un effet &eacute;quilibrant sur vos &eacute;motions, votre esprit et votre corps. The QuantumPulse machine est utilis&eacute;e &agrave; titre de luminoth&eacute;rapie anodine stimulant l’activit&eacute; cellulaire naturelle. Cette forme de th&eacute;rapie g&eacute;n&egrave;re et promeut ce qu’il faut &agrave; votre corps et contribue &agrave; une bonne sant&eacute;.</p>
+      $text2_fr = "<h2 class='text-p'>The QuantumPulse Machine</h2>
+        <p class='text-p'>Tout en vous est &eacute;nergie. Quand cette &eacute;nergie circule, vous &ecirc;tes plus vigoureux, &eacute;quilibr&eacute; et productif. Atteignez votre potentiel naturel et sentez votre corps au moyen d’une technologie &eacute;prouv&eacute;e : The QuantumPulse Machine, fond&eacute;e sur une invention g&eacute;niale de l’ing&eacute;nieur Gene Koonce. Son inspiration r&eacute;side dans des th&eacute;ories et technologies de scientifiques de renomm&eacute;e universelle, tels que Nikola Tesla, Georges Lakhovsky et Royal Raymond Rife.</p>
+        <p class='text-p'>Le traitement a un effet &eacute;quilibrant sur vos &eacute;motions, votre esprit et votre corps. The QuantumPulse Machine est utilis&eacute;e &agrave; titre de luminoth&eacute;rapie anodine stimulant l’activit&eacute; cellulaire naturelle. Cette forme de th&eacute;rapie g&eacute;n&egrave;re et promeut ce qu’il faut &agrave; votre corps et contribue &agrave; une bonne sant&eacute;.</p>
         <p class='text-p'>Je vous conseille volontiers lors d’un entretien personnel.</p>
         <p class='text-p'>Dans les cas suivants, l’utilisation de la QuantumPulse est d&eacute;conseill&eacute;e:</p>
         <ul class='text-p'>
@@ -150,19 +153,46 @@
 
       ";
 
-      $text2_it = "<h2 class='text-p'>Quantum Pulse</h2>
+      $text2_it = "<h2 class='text-p'>The QuantumPulse Machine</h2>
             <p class='text-p'>Tu sei energia. Quando la tua energia scorre, ti senti pi&ugrave; vitale, pi&ugrave; equilibrata/o e pi&ugrave; produttiva/o. Raggiungi il tuo potenziale naturale e percepisci il tuo corpo con una tecnologia provata: The QuantumPulse Machine, basata sul’invenzione geniale del ingegnere Gene Koonce. Le sue ispirazioni sono basate sulle teorie e le tecnologie dei famosi scienziati mondiali Nikola Tesla,Georges Lakhovsky e Royal Raymond Rife.</p>
             <p class='text-p'>Il trattamento ha un effetto calmante per le tue emozioni, per la tua mente e corpo.</p>
-            <p class='text-p'>The QuantumPulse viene usata come terapia della luce innocua che stimola la tua naturale attivit&agrave; cellulare. Questa terapia da al tuo corpo quello di cui necessita. Quindi si attiva la tua salute in tutto il corpo!</p>
+            <p class='text-p'>The QuantumPulse Machine viene usata come terapia della luce innocua che stimola la tua naturale attivit&agrave; cellulare. Questa terapia da al tuo corpo quello di cui necessita. Quindi si attiva la tua salute in tutto il corpo!</p>
             <p class='text-p'>Ti consiglio volentieri in una seduta personale.</p>
-            <p class='text-p'>Nei casi seguenti &egrave; sconsigliato il trattamento con The QuantumPulse:</p>
+            <p class='text-p'>Nei casi seguenti &egrave; sconsigliato il trattamento con The QuantumPulse Machine:</p>
             <ul class='text-p'>
               <li>Gravidanza</li>
               <li>Bambini</li>
               <li>Pacemaker</li>
             </ul>
-            <p class='text-p'>Una seduta con The QuantumPulseMachine: CHF 77.-</p>
+            <p class='text-p'>Una seduta con The QuantumPulse Machine: CHF 77.-</p>
             <p class='text-p'>Questo trattamento non sostituisce nessuna visita medica e non emetto diagnosi.</p>
+
+      ";
+
+      $text1_en = "<h2 class='text-p'>EMF Balancing Technique</h2>
+        <p class='text-p'>It is essential to raise awareness for our own energies. Comparable to a spiritual spa, EMF Balancing Technique activates a sense of well-being. It has an inspiring effect on us in all elements of life.</p>
+        <p class='text-p'>In everyday life we often don't know how to handle our feelings and energies. EMF Balancing Technique helps to explain those situations and achieve a better connection with your own body. Through the balancing electromagnetic field of your body can regenerate and the connection to your own self will be strengthened. Overall there are 12 phases which can be experienced separately or in combination.</p>
+        <p class='text-p'>Through my multicultural background I have the possibility to take care of you in various languages (German, English, French, Italian, and Spanish).</p>
+        <p class='text-p'>I’d like to welcome you for a consultation in form of a personal conversation.</p>
+        <p class='text-p'>Price per session: CHF 144.-</p>
+        <h2 class='text-p'>The Waves</h2>
+        <p class='text-p'>The art of conscious transformation. A unique symbiosis of light and sound has been created based on Peggy Phoenix Dubro’s perception and the unique Pineal Toning of Dr. Todd Ovokaitys. Using The Waves is fun, exciting and deep. Depending on choice and requirement out of 36 Waves 4-5 may be chosen for one session.</p>
+        <p class='text-p'>I’d like to welcome you for a consultation in form of a personal conversation.</p>
+        <p class='text-p'>Price per session: CHF 144.-</p>
+
+        ";
+
+      $text2_en = "<h2 class='text-p'>The QuantumPulse Machine</h2>
+        <p class='text-p'>You're energy. If your energy flows, you will be more vital, more balanced, and more productive. Achieve your natural potential and feel your body with a well-researched technology; The QuantumPulse Machine bases on the ingenious invention of the engineer Gene Koonce. His inspiration bases on theories and technologies of the renowned scientists Nikola Tesla, Georges Lakhovsky, and Royal Raymond Rife.</p>
+        <p class='text-p'>The treatment has a balancing effect on your emotions, spirit, and body. The QuantumPulse Machine therapy will be applied as a harmless light therapy that stimulates your natural cell activity. This therapy provides the necessary balance for your body. Therefore, your health will be activated in your whole body!</p>
+        <p class='text-p'>I'd like to welcome you for a consultation in form of a personal conversation.</p>
+        <p class='text-p'>Under the following conditions treatments with the QuantumPulse Machine aren’t recommended:</p>
+        <ul class='text-p'>
+          <li>Pregnancy</li>
+          <li>Kids</li>
+          <li>People with pacemakers</li>
+        </ul>
+        <p class='text-p'>A session with the QuantumPulse Machine: CHF 77.-</p>
 
       ";
 
@@ -177,7 +207,7 @@ Die Behandlung ist sehr fein und sanft. Es beeindruckte mich, was sich alles in 
 Von ganzem Herzen w&uuml;nsche ich, das viele ebenso in den Genuss dieser wunderbaren Behandlung kommen d&uuml;rfen.
 In tiefer Dankbarkeit und Bewunderung f&uuml;r Sibylle Seitzmeir</blockquote><br/>- Regula R&ouml;mer";
   $quotes[] = "<blockquote>Erfahrung mit der QuantumPulseMachine:
-Nach einer Sitzung in der Praxis von Sibylle Seitzmeir, stellte ich auffallende Ver&auml;nderungen in  meinem K&ouml;rper fest. Aufgrund eines Gendefekts, der Leber und Lunge betrifft, sp&uuml;hrte ich sporadisch Schmerzen im Leberbereich. Diese sind mit nur einer Sitzung an der Quantum PulseMachine, nie mehr aufgetreten. Ebenso gel&ouml;st hat sich eine Blockade im Nacken, die ich latent &uuml;ber l&auml;ngere Zeit gesp&uuml;hrt hatte, total auf.
+Nach einer Sitzung in der Praxis von Sibylle Seitzmeir, stellte ich auffallende Ver&auml;nderungen in  meinem K&ouml;rper fest. Aufgrund eines Gendefekts, der Leber und Lunge betrifft, sp&uuml;hrte ich sporadisch Schmerzen im Leberbereich. Diese sind mit nur einer Sitzung an der QuantumPulse Machine, nie mehr aufgetreten. Ebenso gel&ouml;st hat sich eine Blockade im Nacken, die ich latent &uuml;ber l&auml;ngere Zeit gesp&uuml;hrt hatte, total auf.
 Am sichtbarsten war definitiv die Wirkung auf meiner Haut. Meine Gesichtshaut ist seit der Behandlung mit der QuantumPulse sehr verj&uuml;ngt und dies ohne Botox und Hyaluroncreme. Diese Lichttherapie ist eine echte Alternative zu chemischen Mitteln und Sch&ouml;nheitsoperationen. Danke Sibylle!</blockquote><br/>- E.B. aus Muri/AG";
   $quotes[] = "<blockquote>Ho conosciuto Sibylle nel 2010 e da subito ho percepito il lei una luce autentica che mi ha rasserenato facendomi affidare senza riserve. Da quella volta vado a trovare Sibylle almeno 3 volte ogni anno, raccogliendo i benefici delle sue tecniche e gliene sono grato</blockquote><br/>- Marco FOSCO";
  ?>

@@ -8,10 +8,13 @@
   $img3_alt = "Christian's photograph 3";
 
   $name = "Christian Harringer";
-  $info = "Dipl. Komplement&auml;r-Therapeut<br/>
+  $info = "
+            Dipl. Komplement&auml;r-Therapeut<br/>
 
             <i style='font-size:.7em;' class='fa fa-phone'></i>&nbsp;044 281 31 31<br/>
-            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;harringer@bellsana.ch";
+            <i style='font-size:.7em;' class='fa fa-envelope'></i>&nbsp;harringer@bellsana.ch<br/>
+            <a target='_blank' href='http://christian-harringer.ch'>http://christian-harringer.ch</a><br/>
+            ";
 
   $h2 = "KOMPLEMENT&Auml;R-THERAPIE";
   $h3 = "ENERGETISCH-STATISCHE-BEHANDLUNG AKUPUNKTUR-MASSAGE (ESB/APM)";
@@ -57,7 +60,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
     </p>
     <ul class='text-p'>
       <li>durch Genetik verursachte Schwellungen in den Beinen</li>
-      <li>und oberen Extremitäten</li>
+      <li>und oberen Extremit&auml;ten</li>
       <li>durch Operationen, Verletzungen, Prellungen</li>
       <li>durch Sch&ouml;nheitsoperationen verursachte Oedeme</li>
     </ul>
@@ -73,7 +76,29 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
     </p>
     ";
 
-    $text2 = "<h3 class='text-p'>KLASSISCHE VOLL- UND TEILMASSAGE</h3>
+    $text2 = "<h3 class='text-p'>Anti Cellulite Massage</h3>
+      <p class='text-p'>
+        Bei der Anti Cellulite Massage werden Verklebungen im Bindegewebe gel&ouml;st
+         sowie die Anh&auml;ufung der Fettzellen an Ges&auml;ss und Oberschenkeln wirksam
+         bek&auml;mpft und zerstreut. Durch die gesteigerte Durchblutung wird das
+         Hautbild erheblich verbessert und das Bindegewebe gestrafft. Diese
+         nicht ganz schmerzfreie Behandlung wirkt nicht nur gegen Cellulite,
+         sondern f&ouml;rdert auch die Entschlackung und verschafft Entspannung und
+         ein gutes K&ouml;rpergef&uuml;hl.
+      </p>
+      <p class='text-p'>Wirkungen:</p>
+      <ul class='text-p'>
+        <li>Steigerung der Durchblutung</li>
+        <li>L&ouml;sen von Verklebungen zwischen den Gewebsschichten</li>
+        <li>Stoffwechselendprodukte werden vermehrt ausgeschieden</li>
+        <li>Anregung des Lymphflusses</li>
+        <li>Verbesserung der Versorgung mit N&auml;hrstoffen</li>
+        <li>Straffung der Haut und des Bindegewebes</li>
+      </ul>
+      <p class='text-p'>
+      Siehe dazu auch, unter Medien, den Bericht im Saldo \"Kampf gegen Cellulite\" vom 12. 6.2013.
+      </p>
+    <h3 class='text-p'>KLASSISCHE VOLL- UND TEILMASSAGE</h3>
       <p class='text-p'>
         Anliegen der klassischen Massage ist es, der
        k&ouml;rperlichen und seelischen Konstitution des
@@ -91,7 +116,7 @@ speziellen Kreislauf bildend, durch Meridiane - unseren
           ein. Dieses steuert viele Funktionen der
           inneren Organe und beeinflusst Blutdruck,
           K&ouml;rpertemperatur und andere Regulationen.
-          Das vegetative Nervensystem ist für die
+          Das vegetative Nervensystem ist f&uuml;r die
           harmonische Funktion des gesamten Organismus
           von grosser Bedeutung. &Uuml;ber die Haut l&auml;sst
           sich gezielt auf die inneren Organe einwirken.

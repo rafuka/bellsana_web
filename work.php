@@ -1,4 +1,6 @@
-<?php require("inc/header.php"); ?>
+<?php
+$title =" Wir Suchen | bellsana";
+require("inc/header.php"); ?>
 
 
 

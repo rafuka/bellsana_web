@@ -1,4 +1,6 @@
-<?php require("inc/header.php");?>
+<?php
+$title = "Team | Bellsana";
+require("inc/header.php");?>
 <?php
   if (isset($_GET['team'])) {
     switch($_GET['team']) {
@@ -72,6 +74,7 @@
           <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=es'?>"><span class="flag-icon flag-icon-es"></span>Spanisch</a></li>
           <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=fr'?>"><span class="flag-icon flag-icon-fr"></span>Franz&ouml;sisch</a></li>
           <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=it'?>"><span class="flag-icon flag-icon-it"></span>Italienisch</a></li>
+          <li><a href="<?php echo $_SERVER['PHP_SELF'] . '?team=sibylle&extra_lang=en'?>"><span class="flag-icon flag-icon-gb"></span>Englisch</a></li>
         </ul>
 
       <?php endif; ?>
@@ -96,6 +99,10 @@
 
             case "it":
               echo $text1_it;
+              break;
+
+            case "en":
+              echo $text1_en;
               break;
 
             default:
@@ -132,6 +139,10 @@
               echo $text2_it;
               break;
 
+            case "en":
+              echo $text2_en;
+              break;
+              
             default:
               echo $text2;
               break;
