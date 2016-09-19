@@ -25,7 +25,7 @@
 	$lang['banner-1'] = '<p>"Das bellsana Gesundheitszentrum<span class="reg">&reg;</span> ist eine Praxisgemeinschaft an zentraler Lage "</p>';
 
 	$lang['phil-header'] = "Unsere Philosophie";
-  $lang['phil-info'] = "S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen oder psychischen Trauma sowie in Lebenskrisen.";
+  	$lang['phil-info'] = "S&auml;mtliche Dienstleistungen bieten wir auch in Erg&auml;nzung zur schulmedizinischen Behandlung an, unter anderem vor oder nach der Geburt, nach einem operativen Eingriff, bei schwerer Erkrankung jeglicher Art, nach einem Unfall, w&auml;hrend oder nach einer Chemotherapie, bei einem k&ouml;rperlichen oder psychischen Trauma sowie in Lebenskrisen.";
 
 	$lang['work-header'] = "Mit uns arbeiten";
 	$lang['work-info'] = "Wir suchen eine Kollegin oder
@@ -68,7 +68,7 @@
 	$lang['services-banner'] = "Behandlungen";
 	$lang['serv-1-name'] = "Coaching f&uuml;r's Leben";
 	$lang['serv-2-name'] = "EMF Balancing Technique";
-	$lang['serv-3-name'] = "Fussreflexzonenmassage";
+	$lang['serv-3-name'] = "Energietherapie";
 	$lang['serv-4-name'] = "Klassische Hom&ouml;opathie";
 	$lang['serv-5-name'] = "LNB Schmerztherapie";
 	$lang['serv-6-name'] = "Die Magnetfeldtherapie";
@@ -78,6 +78,7 @@
 	$lang['serv-10-name'] = "Osteopathie";
 	$lang['serv-11-name'] = "Komplement&auml;r Therapie";
 	$lang['serv-12-name'] = "Coaching";
+	$lang['serv-13-name'] = "Gesichtsmassage";
 
 	$lang['serv-1-who'] = "Gabriela Thirring";
 	$lang['serv-2-who'] = "Sibylle Seitzmeir";
@@ -91,6 +92,7 @@
 	$lang['serv-10-who'] = "Paul H&ouml;rter";
 	$lang['serv-11-who'] = "Christian Harringer";
 	$lang['serv-12-who'] = "Richard Casanova";
+	$lang['serv-13-who'] = "Elena Urben";
 
 	$lang['serv-1-anc'] = "team.php?team=gabriela";
 	$lang['serv-2-anc'] = "team.php?team=sibylle";
@@ -104,6 +106,7 @@
 	$lang['serv-10-anc'] = "team.php?team=paul";
 	$lang['serv-11-anc'] = "team.php?team=christian";
 	$lang['serv-12-anc'] = "team.php?team=richard";
+	$lang['serv-13-anc'] = "team.php?team=elena";
 	/* ----- end services site ----- */
 
 	/* ----- work site ----- */
@@ -125,27 +128,40 @@ Frei zur Mitarbeit wird ab 2016 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. alle
 
 	/* ----- seminars site ----- */
 	$lang['seminar-banner'] = "Seminare";
-	$lang['seminar-text'] = "<h3 class='text-p'>Vitalstructures-Seminare - Coaching f&uuml;r's Leben -&nbsp;</h3>
-		<ul class='text-p'>
-			<li>Coaching f&uuml;r's Leben - Navigationshilfen</li>
-			<li>Zweitagesseminare abwechslungsweise in der Schweiz, in Deutschland und in Italien</li>
-		</ul>
-		<p class='text-p'>&nbsp;(4.11.2011)</p>
-		<h3 class='text-p'>Massage-Kurse - LEARNING BY DOING</h3>
-		<ul class='text-p'>
-			<li>Im Fokus stehen Ganzk&ouml;rper-&nbsp;und Fussreflexzonenmassage</li>
-			<li>Wecke neue Lebensenergie, und bringe sie zum Fliessen</li>
-		</ul>
-		<p class='text-p'>&nbsp;(18.7.2012)</p>
+	$lang['seminar-text'] = "
 
-		<h3 class='text-p'>EMF Balancing Technique:</h3>
-
-<p class='text-p'>EMF Balancing Technique:
-
-Gerne bilde ich Sie aus, damit Sie diese wunderbare Arbeit in Ihrer Praxis selbst anwenden k&ouml;nnen. Ich unterrichte die Phasen 1- 8 in Deutsch, Franz&ouml;sisch, Spanisch, Englisch und Italienisch.
-Ich freue mich auf Sie!
-Herzlichst, Sibylle</p>
-		
+		<h3 class='text-p'>20. Oktober 2016 / 18 Uhr</h3>
+		<p class='text-p'>
+			Lesung: Die andere Sicht<br>
+			Buchhandlung St. Gabriel<br>
+			Gabrielerstraße 171,<br>
+			2340 Maria Enzersdorf
+		</p>
+		<h3 class='text-p'>21. Oktober 2016 / 19 Uhr</h3>
+		<p class='text-p'>
+			Vortrag: Die andere Sicht<br>
+			Zentrum MUP<br>
+			Ortstraße 20<br>
+			2362 Biermannsdorf<br>
+			Energieausgleich: Euro 19
+		</p>
+		<h3 class='text-p'>22 Oktober 2016 / 10 – 17  Uhr</h3>
+		<p class='text-p'>
+			Seminar: Die andere Sicht<br>
+			Zentrum MUP<br>
+			Ortstraße 20<br>
+			2362 Biermannsdorf<br>
+			Energieausgleich: Euro 120,00
+		</p>
+		<p class='text-p'>Einzelsitzung nach Terminvereinbarung : Euro 55,00</p>
+		<h3 class='text-p'>Workshops mit Richard Casanova</h3>
+		<p class='text-p'>
+			In Workshops mit jeweils maximal 4 Personen erfahren Sie mehr &uuml;ber das Zusammenspiel
+			zwischen K&ouml;rper, Geist und Seele an praktischen Beispielen. Sie erhalten einen Blick “hinter
+			die Kulissen” und gewinnen mehr Verst&auml;ndnis f&uuml;r unser irdisches Leben und die damit
+			verbundene Entwicklung unseres Bewusstseins. Ich zeige Ihnen Hilfsmittel, die uns auf
+			unserem Weg unterst&uuml;tzen (Symbole, Rituale etc.).
+		</p>
 
 		<h3 class='text-p'>Buchvernissage \"Die andere Sicht\"</h3>
 		<p class='text-p'>8. September 2016, 18:00 Uhr in Z&uuml;rich</p>
@@ -155,6 +171,32 @@ Herzlichst, Sibylle</p>
 		<p class='text-p'>23. – 25. September 2016 in Bad V&ouml;slau (bei Wien)</p>
 		<p class='text-p'>Tagesseminar, Buchpr&auml;sentation und Behandlungen</p>
 		<p class='text-p'>(Details folgen)</p>
+
+		<h3 class='text-p'>EMF Balancing Technique:</h3>
+		<p class='text-p'>EMF Balancing Technique:
+
+			Gerne bilde ich Sie aus, damit Sie diese wunderbare Arbeit in Ihrer Praxis selbst anwenden k&ouml;nnen. Ich unterrichte die Phasen 1- 8 in Deutsch, Franz&ouml;sisch, Spanisch, Englisch und Italienisch.
+			Ich freue mich auf Sie!
+			Herzlichst, Sibylle
+		</p>
+
+		<h3 class='text-p'>Vitalstructures-Seminare - Coaching f&uuml;r's Leben -&nbsp;</h3>
+		<ul class='text-p'>
+			<li>Coaching f&uuml;r's Leben - Navigationshilfen</li>
+			<li>Zweitagesseminare abwechslungsweise in der Schweiz, in Deutschland und in Italien</li>
+		</ul>
+		
+		<h3 class='text-p'>Massage-Kurse - LEARNING BY DOING</h3>
+		<ul class='text-p'>
+			<li>Im Fokus stehen Ganzk&ouml;rper-&nbsp;und energietherapie</li>
+			<li>Wecke neue Lebensenergie, und bringe sie zum Fliessen</li>
+		</ul>
+		
+
+		
+		
+
+		
 
 		";
 

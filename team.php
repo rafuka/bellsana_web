@@ -24,6 +24,10 @@ require("inc/header.php");?>
       require("inc/paul.php");
       break;
 
+      case "elena":
+      require("inc/elena.php");
+      break;
+
       default:
         header("location: http://localhost/bellsana/index.php");
         exit();

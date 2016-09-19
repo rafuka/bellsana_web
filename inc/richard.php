@@ -10,7 +10,7 @@
   $name = "Richard Casanova";
   $info = "
             Coaching<br/>
-            Fussreflexzonenmassage<br/>
+            Energietherapie<br/>
             Hypnose<br/>
 
 
@@ -23,25 +23,39 @@
 
   $text1 = "
   <h2 class='text-p'>Coaching</h2>
-  <p class='text-p'>Das Gespr&auml;ch mit meinen Kunden ist ein wichtiger Bestandteil meiner Arbeit. Es dient vor allem der Erkennung der Ursachen, die zu Unwohlsein, Krankheit oder Unfall gef&uuml;hrt haben. Wenn wir diese Ursachen erkannt haben und uns dessen bewusst werden, k&ouml;nnen wir mit der eigentlichen Arbeit an uns selber beginnen. Vielleicht gilt es dann Verhaltensmuster zu &auml;ndern, eine andere Sichtweise einzunehmen oder gewisse Dinge einfach loszulassen.</p>
-  <p class='text-p'>Dieser Prozess ist manchmal einfach und die Ver&auml;nderungen k&ouml;nnen mit Leichtigkeit erfolgen. Oft ist dieser Weg aber sehr steinig und wir sind gefordert, &uuml;ber unseren eigenen Schatten zu springen. Die L&ouml;sung sind immer wir, weil wir selber daf&uuml;r verantwortlich sind.</p>
-  <p class='text-p'>Ich begleite Sie gerne auf diesem spannenden und uns weiterbringenden Weg.</p>
+  <p class='text-p'>Das pers&ouml;nliche Gespr&auml;ch mit meinen Kunden ist ein wichtiger Bestandteil meiner Arbeit. Es dient vor
 
-  <h2 class='text-p'>Fussreflexzonenmassage</h2>
-  <p class='text-p'>Die Fussreflexzonenmassage wirkt gesundheitsf&ouml;rdernd und harmonisierend. Die Massage steigert die Durchblutung der Organe und aktiviert bzw. unterst&uuml;tzt so die Selbstheilungskr&auml;fte. Sie packt das Problem an der Wurzel.</p>
+      allem der Erkennung der Ursachen, die zu Unwohlsein, Krankheit oder Unfall gef&uuml;hrt haben. Wenn wir
 
-  <h3 class='text-p'>Anwendungsbereiche</h3>
-  <p class='text-p'>Die Massage unterst&uuml;tzt Heilungsprozesse und dient der Prophylaxe.</p>
-  <p class='text-p'>Sie kann auch gezielt eingesetzt werden, beispielsweise bei:</p>
-  <ul class='text-p'>
-    <li>Stress und allgemeiner Ersch&ouml;pfung</li>
-    <li>Prostatavergr&ouml;sserung</li>
-    <li>Kopfschmerzen und Migr&auml;ne</li>
-    <li>Unter- oder &Uuml;berfunktion der Schilddr&uuml;se</li>
-    <li>Verdauungsproblemen</li>
-    <li>Bluthochdruck</li>
-    <li>Problemen mit dem Bewegungsapparat (R&uuml;cken, Gelenke etc.)</li>
-  </ul>
+      diese Ursachen erkannt haben und uns dessen bewusst werden, k&ouml;nnen wir mit der eigentlichen
+
+      Arbeit an uns selber beginnen. Vielleicht gilt es dann Verhaltensmuster zu &auml;ndern, eine andere
+
+      Sichtweise einzunehmen oder gewisse Dinge einfach loszulassen.
+  </p>
+  <p class='text-p'>
+      Dieser Prozess ist manchmal einfach und die Ver&auml;nderungen k&ouml;nnen mit Leichtigkeit erfolgen. Oft ist
+
+      dieser Weg aber sehr steinig und wir sind gefordert, &uuml;ber unseren eigenen Schatten zu springen. Ich
+
+      begleite Sie gerne auf diesem spannenden und weiterbringenden Weg.
+  </p>
+
+
+  <h2 class='text-p'>Energietherapie</h2>
+  <p class='text-p'>
+    Die Energietherapie befasst sich mit unserem eigenen Energiefeld, auch Aura genannt. Meine
+
+    energetische Arbeit wirkt &uuml;ber das Energiefeld auf den K&ouml;rper und in die Zellen, den Zellkern und in
+
+    die DNA. Dies ist m&ouml;glich, weil unser Energiefeld und unser K&ouml;rper wie auch die Zellen aus
+
+    Schwingung und zu rund 80 Prozent aus Wasser bestehen. Mit meinen medialen F&auml;higkeiten helfe ich
+
+    Ihnen, K&ouml;rper, Geist und Seele wieder ins Gleichgewicht zu bringen.
+  </p>
+
+
 
 
 
@@ -49,16 +63,33 @@
 
     $text2 = "
     <h2 class='text-p'>Hypnose</h2>
-    <p class='text-p'>Die therapeutische Hypnose ist eine Entspannungs&uuml;bung. Der hypnotische Entspannungszustand f&uuml;hrt zu einem ver&auml;nderten Bewusstseinszustand, welcher den Zugang zum Unterbewusstsein erleichtert. Dabei ist der Patient keinerlei Zwang ausgesetzt. Er beh&auml;lt immer seinen freien Willen.</p>
-    <h3 class='text-p'>Anwendungsbereiche</h3>
-    <ul class='text-p'>
-      <li>Angstzust&auml;nden</li>
-      <li>Sorgen/Belastungen</li>
-      <li>Depressionen</li>
-      <li>Suchtproblemen</li>
-      <li>Schockzust&auml;nden</li>
-    </ul>
-    <p style='height:400px;width:100%;'></p>
+    <p class='text-p'>
+      Die Hypnose ist eine Entspannungs&uuml;bung. Der hypnotische Entspannungszustand f&uuml;hrt zu einem
+
+      ver&auml;nderten Bewusstseinszustand, welcher den Zugang zum Unterbewusstsein erleichtert. Dabei
+
+      beh&auml;lt man immer seinen freien Willen und ist keinerlei Zwang ausgesetzt. Die Hypnose kann vor
+
+      allem eingesetzt werden bei Angstzust&auml;nden, Sorgen/Belastungen, Depressionen, Suchtproblemen
+
+      und Schockzust&auml;nden.
+    </p>
+
+    <h2 class='text-p'>Workshops</h2>
+    <p class='text-p'>
+      In Workshops mit jeweils maximal 4 Personen erfahren Sie mehr &uuml;ber das Zusammenspiel zwischen
+
+      K&ouml;rper, Geist und Seele an praktischen Beispielen. Sie erhalten einen Blick “hinter die Kulissen” und
+
+      gewinnen mehr Verst&auml;ndnis f&uuml;r unser irdisches Leben und die damit verbundene Entwicklung unseres
+
+      Bewusstseins. Ich zeige Ihnen Hilfsmittel, die uns auf unserem Weg unterst&uuml;tzen (Symbole, Rituale
+
+      etc.).
+    </p>
+
+
+  
 
 
 

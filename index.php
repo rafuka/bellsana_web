@@ -72,7 +72,7 @@
 					<img class="team-img" src="img/t2.jpg" alt="team member"/>
 					<h3>Richard Casanova</h3>
 					<p>Coaching<br/>
-						 Fussreflexzonenmassage<br/>
+						 Energietherapie<br/>
 					   Hypnose
 					</p>
 				</div>
@@ -86,7 +86,7 @@
 				</div>
 			</a>
 			<a href="team.php?team=sibylle">
-				<div class="col-sm-6 col-md-4 col-md-offset-2 team-box">
+				<div class="col-sm-6 col-md-4 team-box">
 					<img class="team-img" src="img/t4.jpg" alt="team member"/>
 					<h3>Sibylle Seitzmeir</h3>
 					<p>EMF Balancing Technique<br/>
@@ -95,12 +95,20 @@
 				</div>
 			</a>
 			<a href="team.php?team=paul">
-				<div class="col-sm-6 col-md-4 col-sm-offset-3 col-md-offset-0 team-box">
+				<div class="col-sm-6 col-md-4 team-box">
 				  <img class="team-img" src="img/t5.jpg" alt="team member"/>
 					<h3>Paul H&ouml;rter</h3>
 					<p>LNB Schmerztherapie<br/>
 						Osteopathie<br/>
 						Physiotherapie
+					</p>
+				</div>
+			</a>
+			<a href="team.php?team=elena">
+				<div class="col-sm-6 col-md-4 team-box">
+				  <img class="team-img" src="img/t6.jpg" alt="team member"/>
+					<h3>Elena Urben</h3>
+					<p>Gesichtsmassage<br/>
 					</p>
 				</div>
 			</a>
