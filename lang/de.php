@@ -78,7 +78,7 @@
 	$lang['serv-10-name'] = "Osteopathie";
 	$lang['serv-11-name'] = "Komplement&auml;r Therapie";
 	$lang['serv-12-name'] = "Coaching";
-	$lang['serv-13-name'] = "Gesichtsmassage";
+	$lang['serv-13-name'] = "Sculptural Facial Massage";
 
 	$lang['serv-1-who'] = "Gabriela Thirring";
 	$lang['serv-2-who'] = "Sibylle Seitzmeir";
@@ -111,17 +111,18 @@
 
 	/* ----- work site ----- */
 	$lang['work-banner'] = "Wir Suchen";
-	$lang['work-text'] = "<p class='text-p'>Ab Januar 2016</p>
+	$lang['work-text'] = "<p class='text-p'>Ab September 2016</p>
 		<p class='text-p'>Wir suchen eine Kollegin oder einen Kollegen mit einer Methode, die unser bestehendes  Team und Angebot ideal erg&auml;nzt. Dies kann mittels Atemtherapie, Coaching, TCM, Ern&auml;hrungsberatung oder das Angebot einer Podologin/Kosmetikerin sein, die gerne ihre Kundschaft an bester Lage empfangen will.</p>
 		<p class='text-p'>Bringen Sie den Wunsch nach interdisziplin&auml;rer Zusammenarbeit in einem&nbsp;Team mit?&nbsp;Wir bieten an Z&uuml;richs bester Citylage eine professionelle Plattform, mit Sekretariatsdienst,&nbsp;harmonische Arbeitsr&auml;ume, N&auml;he zu allen Bahnh&ouml;fen sowie 2 Stunden Parkm&ouml;glichkeiten in der Umgebung.<br>
-Frei zur Mitarbeit wird ab 2016 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. aller Betriebskosten wie Reinigung, Sekretariatsdienst, Internetzugang, eigene Mailadresse, EWZ, usw. 1'270.00 CHF) mit Stukkatur und altem Parkett, eigene Waschmaschine und Tumbler vorhanden.</p>
-		<p class='text-p'>F&uuml;r weitere Informationen freuen wir uns auf Ihre Kontaktaufnahme!</p>";
+Frei zur Mitarbeit wird ab September 2016 ein sch&ouml;ner Raum mit 14m2 (Miete inkl. aller Betriebskosten wie Reinigung, Sekretariatsdienst, Internetzugang, eigene Mailadresse, EWZ, usw. 1'270.00 CHF) mit Stukkatur und altem Parkett, eigene Waschmaschine und Tumbler vorhanden.</p>
+		<p class='text-p'>F&uuml;r weitere Informationen freuen wir uns auf Ihre Kontaktaufnahme!</p>
+		<p class='text-p'>Ein zweiter Raum wird auf April 2017 frei.</p> ";
 	/* ----- end work site ----- */
 
 
 	/* ----- news site ----- */
 	$lang['news-banner'] = "Aktuell";
-	$lang['news-text'] = "<p class='text-p'>Januar 2016 - Wir vermieten einen Behandlungsraum an einen Kollegen/Kollegin oder auch an eine Kosmetikerin/Pedicure. Weiterf&uuml;hrende Informationen unter \"wir suchen\". Melden Sie sich einfach per Telefon oder Mail.</p>
+	$lang['news-text'] = "<p class='text-p'>September 2016 - Wir vermieten einen Behandlungsraum an einen Kollegen/Kollegin oder auch an eine Kosmetikerin/Pedicure. Weiterf&uuml;hrende Informationen unter \"wir suchen\". Melden Sie sich einfach per Telefon oder Mail.</p>
 		<p class='text-p'>Wie Christian Harringer, Komplemet&auml;r-Therapeut bei bellsana, den Betroffenen durch Lymphdrainage zu neuer Lebensqualit&auml;t verhilft:</p>";
 
 	/* ----- end news site ----- */

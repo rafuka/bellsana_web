@@ -108,7 +108,7 @@
 				<div class="col-sm-6 col-md-4 team-box">
 				  <img class="team-img" src="img/t6.jpg" alt="team member"/>
 					<h3>Elena Urben</h3>
-					<p>Gesichtsmassage<br/>
+					<p>Sculptural Facial Massage<br/>
 					</p>
 				</div>
 			</a>
